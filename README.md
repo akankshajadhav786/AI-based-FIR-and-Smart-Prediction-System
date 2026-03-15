@@ -1,5 +1,6 @@
-AI-Assisted FIR Registration and IPC Section Prediction System
-Overview
+**AI-Assisted FIR Registration and IPC Section Prediction System**
+
+**Overview**
 
 The AI-Assisted FIR Registration and IPC Section Prediction System is a decision-support system designed to assist law enforcement officers in registering First Information Reports (FIRs) digitally and predicting relevant IPC sections using Artificial Intelligence and Natural Language Processing (NLP).
 
@@ -7,7 +8,7 @@ The system helps reduce manual effort in analyzing FIR descriptions, improves ef
 
 This system is designed to assist officers, not replace human judgment.
 
-Problem Statement
+**Problem Statement**
 
 In traditional FIR systems:
 
@@ -21,7 +22,7 @@ Legal references require additional time.
 
 This project solves these problems by integrating Machine Learning and NLP into a digital FIR system.
 
-Key Features
+**Key Features**
 
 Digital FIR registration
 
@@ -95,7 +96,7 @@ Providing insights based on past case descriptions
 
 Assisting investigation analysis
 
-AI and Machine Learning Pipeline
+**AI and Machine Learning Pipeline**
 
 The AI module performs the following steps:
 
@@ -125,7 +126,7 @@ Crime severity analysis
 
 Based on punishment length
 
-Technologies Used
+**Technologies Used**
 
 Programming Language
 Python
