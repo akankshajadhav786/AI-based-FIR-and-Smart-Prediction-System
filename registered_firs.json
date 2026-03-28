@@ -1,0 +1,19 @@
+[
+  {
+    "fir_number": "FIR-20260328-0001",
+    "complainant": "Sankhya",
+    "phone": "9892153430",
+    "age": 21,
+    "address": "green lawns belavli badlapur",
+    "date": "2026-03-28",
+    "time": "18:54:00",
+    "location": "kurla railway station",
+    "officer": "arunima",
+    "description": "a man snatched phone from the ladys hand and ran away",
+    "predicted_ipc": 356,
+    "offense": "Assault or criminal force in attempt to commit theft of property worn or carried by a person",
+    "punishment": "2 Years or Fine or Both",
+    "severity": "Low",
+    "registered_at": "2026-03-28 18:56:34"
+  }
+]
