@@ -15,5 +15,22 @@
     "punishment": "2 Years or Fine or Both",
     "severity": "Low",
     "registered_at": "2026-03-28 18:56:34"
+  },
+  {
+    "fir_number": "FIR-20260330-0002",
+    "complainant": "abc",
+    "phone": "123",
+    "age": 30,
+    "address": "fdj,hdfkj",
+    "date": "2026-03-30",
+    "time": "12:08:00",
+    "location": "mumbai",
+    "officer": "xyz",
+    "description": "motorcycle stolen from khar west",
+    "predicted_ipc": 379,
+    "offense": "Theft",
+    "punishment": "3 Years or Fine or Both",
+    "severity": "Medium",
+    "registered_at": "2026-03-30 12:10:24"
   }
 ]
