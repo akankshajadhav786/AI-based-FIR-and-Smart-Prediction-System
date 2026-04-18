@@ -1,0 +1,1561 @@
+fir_id,fir_text,bns_section
+1,The accused actively instigated my employee to steal from my company accounts.,46
+2,The accused abetted his brother to commit fraud by providing him with all necessary information.,46
+3,The accused aided the main offender by providing tools and instructions to break into my shop.,46
+4,The accused encouraged his associate to attack me by offering money for the act.,46
+5,The accused instigated a group of persons to riot by giving inflammatory speeches.,46
+6,The accused in India helped plan a robbery to be committed in a foreign country.,47
+7,The accused from India abetted a crime to be committed abroad by coordinating over phone.,47
+8,The accused abetted the commission of an offence in another country from within India.,47
+9,The accused provided funds from India to help commit an offence in a foreign country.,47
+10,The accused coordinated via email from India to assist in committing a crime outside India.,47
+11,The accused from outside India abetted the commission of theft in India.,48
+12,The accused operating abroad abetted a fraud to be committed on victims in India.,48
+13,The accused from a foreign country abetted a murder to be committed in India.,48
+14,The accused living abroad helped plan a kidnapping to occur within India.,48
+15,The accused outside India provided instructions to commit an offence within India.,48
+16,The accused and the offender planned the robbery together and the accused was present.,49
+17,The accused abetted the crime and the offence was committed as a direct result.,49
+18,The accused instigated his associate and the associate committed the offence in consequence.,49
+19,The accused encouraged the offender and the offence was committed as a result of such encouragement.,49
+20,The accused provided material assistance and the offence was committed using that assistance.,49
+21,The accused abetted a theft and the thief committed the act with a different intention.,50
+22,The accused abetted assault but the person committed murder instead with different intent.,50
+23,The accused abetted theft intending one thing but the abetted person did another act.,50
+24,The accused abetted the person to rob but the person committed dacoity instead.,50
+25,The accused instigated a minor offence but the abetted person committed a serious one.,50
+26,The accused abetted an act and both he and the offender are liable for the same offence.,51
+27,The accused who abetted the crime is equally liable as the person who committed it.,51
+28,The accused abetted the offence and is liable along with the main offender for the act.,51
+29,The accused who instigated the crime shares cumulative liability with the perpetrator.,51
+30,The accused who aided in the offence is jointly liable with the person who committed it.,51
+31,The accused abetted one offence but a different act with different effect was done as a result.,52
+32,The accused instigated one act but the abetted person committed a different offence.,52
+33,The accused abetted theft but the person abetted caused grievous hurt instead.,52
+34,The accused who abetted a minor offence is liable for the more serious offence actually committed.,52
+35,The accused abetted an act and a different effect harmful to me was caused as a result.,52
+36,The accused was present at the scene when the offence he had abetted was committed.,53
+37,The accused was at the location when his associate committed the offence as a result of his abetment.,53
+38,The accused who had abetted the offence was physically present when it was committed.,53
+39,The accused stood by and watched while his associate committed the crime he had abetted.,53
+40,The accused was present at the time the offence he instigated was committed.,53
+41,The accused abetted a murder but the murder was not committed and no express provision applies.,54
+42,The accused instigated an attempt to kill me but the killing was not carried out.,54
+43,The accused abetted the commission of a capital offence that did not actually occur.,54
+44,The accused encouraged his associate to commit a murder but the act was not committed.,54
+45,The accused provided assistance for a planned killing that was ultimately not executed.,54
+46,The accused abetted the commission of a theft but the theft was not completed.,55
+47,The accused instigated someone to commit robbery but the robbery did not take place.,55
+48,The accused abetted fraud but the fraud was not committed in consequence.,55
+49,The accused helped plan a crime but the crime did not ultimately occur.,55
+50,The accused provided assistance for an offence that was not committed in the end.,55
+51,The accused was present at the scene and participated in the commission of the offence.,56
+52,The accused was present during the crime and actively took part in committing it.,56
+53,The accused was present when the offence was committed and is deemed to have committed it.,56
+54,The accused was at the scene during the robbery and participated actively.,56
+55,The accused was physically present and assisted during the commission of the offence.,56
+56,The accused and his associates conspired to commit robbery and they committed it.,57
+57,The accused along with two others conspired to commit murder and carried out the plan.,57
+58,The accused and his partners formed a criminal conspiracy to commit cheating.,57
+59,The accused was part of a conspiracy to commit dacoity in our area.,57
+60,The accused and others conspired to commit an offence punishable with life imprisonment.,57
+61,The accused and associates conspired to commit a minor offence not punishable with long imprisonment.,58
+62,The accused conspired with others to commit a petty offence punishable with less than two years.,58
+63,The accused was party to a conspiracy to commit a minor criminal act.,58
+64,The accused participated in a conspiracy to commit a lesser offence.,58
+65,The accused and another person conspired to commit a small criminal act together.,58
+66,The accused abetted the act but a different act was done and the accused is still liable.,59
+67,The accused who abetted the act is liable even though the act done was different from intended.,59
+68,The accused is liable for the different act done by the person he abetted.,59
+69,The accused who abetted under influence of instigation is liable for the resulting act.,59
+70,The accused who conspired is liable for the consequential act done by his associate.,59
+71,The accused abetted in India for an offence committed by a person outside India.,60
+72,The accused from India abetted a crime committed by a foreign national abroad.,60
+73,The accused in India abetted a crime committed outside India by another person.,60
+74,The accused provided assistance in India for an offence committed abroad.,60
+75,The accused coordinated from within India to help someone commit a crime outside.,60
+76,The accused was part of an illegal assembly that committed the offence together.,61
+77,The accused joined a group where each member committed an illegal act cooperating together.,61
+78,The accused cooperated with others in the commission of a criminal act.,61
+79,The accused and associates cooperated in the commission of an offence together.,61
+80,The accused was part of a group that illegally cooperated to commit the offence.,61
+81,The accused attempted to commit robbery but was caught before completing the act.,62
+82,The accused attempted to murder me by firing but missed and caused only injury.,62
+83,The accused attempted to commit theft but was interrupted and ran away.,62
+84,The accused attempted to commit cheating but the fraud was discovered in time.,62
+85,The accused attempted to commit dacoity but was overpowered by bystanders.,62
+86,A man forcefully had sexual intercourse with me in an isolated area last night against my will.,63
+87,The accused entered my room at night and raped me while my family was asleep.,63
+88,I was returning from work when a man dragged me into a dark alley and raped me.,63
+89,The accused threatened to harm my family and repeatedly forced sexual intercourse on me.,63
+90,I was raped by an acquaintance after he mixed something in my drink at a gathering.,63
+91,The accused raped me in his vehicle after offering to drop me home from a party.,64
+92,My rapist was identified by CCTV footage near where the assault took place.,64
+93,DNA evidence confirms the accused raped me in the hotel room that night.,64
+94,The accused forced himself on me in the staircase of the apartment building.,64
+95,A witness saw the accused dragging me into the building where the rape occurred.,64
+96,A 14-year-old girl was raped by the accused neighbour at his residence.,65
+97,The accused raped a minor student who was only 15 years old.,65
+98,A 15-year-old victim was found traumatised after being assaulted in the park.,65
+99,A school teacher raped a 13-year-old student on school premises after hours.,65
+100,A minor victim aged 12 years was sexually assaulted near the playground.,65
+101,My estranged husband forced sexual intercourse on me while we are living separately.,66
+102,My husband who knows we are separated came to my residence and forced himself on me.,66
+103,My separated husband threatened me and had sexual intercourse with me against my will.,66
+104,My husband forced sexual intercourse on me despite us living separately under court order.,66
+105,The accused husband coerced me into sexual intercourse while I am living separately.,66
+106,My boss in a supervisory position abused his authority to coerce me into sexual intercourse.,67
+107,The jail superintendent coerced a female prisoner under his custody into sexual relations.,67
+108,A doctor used his position of authority over his patient to coerce her into sexual relations.,67
+109,A public servant abused his official power to pressure me into sexual relations.,67
+110,The warden abused his authority over me as a detainee to force sexual intercourse.,67
+111,A group of five men gang-raped me after stopping my vehicle on the highway at night.,68
+112,Multiple accused persons committed gang rape on the victim in the factory premises.,68
+113,A group of men abducted me and committed gang rape on me over two days.,68
+114,Four accused persons gang raped the victim in a secluded location outside the village.,68
+115,Three men assaulted and gang raped me when I was returning home from college.,68
+116,The accused promised to marry me and had sex with me repeatedly but later refused to marry.,69
+117,The man deceived me by showing a fake marriage certificate and had sex with me.,69
+118,The accused had sexual intercourse with me by falsely claiming he would divorce and marry me.,69
+119,The man had sex with me promising marriage but later revealed he was already married.,69
+120,The accused used deceit to convince me he was single and had sexual intercourse with me.,69
+121,A group of six men gang-raped my 16-year-old daughter after abducting her from school.,70
+122,Three men gang raped a 17-year-old girl and dumped her on the road.,70
+123,A group raped my 15-year-old daughter in the factory premises.,70
+124,The accused group raped my 14-year-old daughter in a moving vehicle.,70
+125,Multiple accused committed gang rape on a 16-year-old girl in the village outskirts.,70
+126,The accused previously convicted for rape has committed rape again on another victim.,71
+127,A convict out on parole after rape conviction again sexually assaulted a woman.,71
+128,The accused with a prior rape conviction was found to have raped another woman.,71
+129,A repeat offender previously convicted under rape sections committed rape again.,71
+130,The accused despite being convicted for rape earlier has been found guilty of raping again.,71
+131,A journalist published the full name and photo of the rape victim in his online article.,72
+132,The accused published the identity of a rape victim on social media revealing her address.,72
+133,A news channel broadcast the name and identity of the rape victim during prime time news.,72
+134,The accused posted the victim's identity details on a WhatsApp group publicly.,72
+135,A website published the rape victim's full name and address on their website.,72
+136,My male colleague repeatedly makes sexually coloured remarks at the workplace.,73
+137,The supervisor demanded sexual favours from me in exchange for a promotion.,73
+138,My boss sends me inappropriate sexual messages creating a hostile work environment.,73
+139,An employee showed pornographic content to female colleagues and made indecent comments.,73
+140,The manager made demands for sexual favours in exchange for keeping my job.,73
+141,A man touched me inappropriately and tried to outrage my modesty on a public bus.,74
+142,The accused groped me in the crowded market and ran away when I raised an alarm.,74
+143,An unknown man grabbed me from behind and outraged my modesty near the park.,74
+144,The accused tried to forcefully kiss me and touch me inappropriately at the workplace.,74
+145,A neighbour entered my house and assaulted me intending to outrage my modesty.,74
+146,My workplace manager sends explicit sexual messages and makes unwelcome physical contact.,75
+147,The accused colleague makes explicit sexual demands and comments in the office.,75
+148,The supervisor showed pornographic content to me forcibly on his phone at workplace.,75
+149,My boss makes explicit sexual overtures threatening career consequences if I refuse.,75
+150,The accused regularly makes sexually coloured remarks to female employees.,75
+151,A peeping tom was caught recording me through the bathroom window using a hidden camera.,76
+152,The accused installed a hidden camera in the women's changing room in the gym.,76
+153,My neighbour captured my videos without consent through a hole in the wall.,76
+154,The accused photographed me in a compromising state in the hotel room without my knowledge.,76
+155,A man was found recording women in the ladies section of the store.,76
+156,An unknown man has been following me to work and back home every day for a month.,77
+157,The accused keeps calling me dozens of times daily despite my clear refusal.,77
+158,A person monitors my social media and keeps showing up at all my locations.,77
+159,Despite a prior complaint the accused continues to follow and stalk me daily.,77
+160,The stalker appears near my house and follows me whenever I step outside.,77
+161,A man made obscene gestures at me when I was walking on the road.,78
+162,The accused made lewd remarks and gestures at me in the public market.,78
+163,A neighbour repeatedly shouts obscene words at me when I step outside.,78
+164,The accused made indecent gestures at me through his window when I passed.,78
+165,A man at the bus stop made obscene sounds intending to insult my modesty.,78
+166,My neighbour tried to kidnap me to force me to marry him against my will.,79
+167,The accused and his friends abducted me with the intent of forcing me to marry the accused.,79
+168,A group of men kidnapped me and threatened to keep me until I agreed to marry.,79
+169,The accused's family forcibly took me and forced me into a marriage ceremony.,79
+170,The accused abducted me to force me into a marriage I never consented to.,79
+171,My husband and in-laws harassed me for dowry and I died under suspicious circumstances.,80
+172,My daughter-in-law was found burnt to death within three years of marriage after dowry demands.,80
+173,The accused and his family tortured my daughter demanding a car as dowry resulting in her death.,80
+174,My wife was killed by her husband after repeated harassment for additional dowry.,80
+175,My sister died suspiciously within two years of marriage after continuous dowry demands.,80
+176,The accused made me believe I was legally married to him using fake marriage documents.,81
+177,A man lived with me for years by making me believe we were legally married.,81
+178,The accused produced false temple records making me believe our marriage was legally valid.,81
+179,The man had sexual relations with me for years falsely claiming we were husband and wife.,81
+180,The accused convinced me through forged documents that we were married and cohabited with me.,81
+181,The accused married my daughter while his first wife is still alive.,82
+182,The accused married another woman while he is already legally married to me.,82
+183,The accused's second marriage is void as his first wife is alive with no divorce.,82
+184,The accused married for the third time without any legal divorce from prior spouses.,82
+185,The accused contracted a second marriage without disclosing that his first wife is alive.,82
+186,The accused went through a marriage ceremony with me knowing it was not lawful.,83
+187,The accused conducted fake marriage rituals knowing he was not legally marrying the victim.,83
+188,The accused performed all marriage rites fraudulently knowing the marriage was invalid.,83
+189,The accused deliberately arranged a fake marriage ceremony to deceive the victim's family.,83
+190,The man went through elaborate marriage ceremonies dishonestly knowing it was legally void.,83
+191,The accused took away my wife from my house under false pretexts for illicit intercourse.,84
+192,The accused enticed my wife away with gifts and took her to his house for illicit purposes.,84
+193,A man lured my wife away under pretence of a job for illicit intercourse.,84
+194,The accused enticed away my wife and kept her with him for illicit purposes.,84
+195,The accused concealed my wife in his house after taking her away for illicit intercourse.,84
+196,My husband beats me regularly and his parents torture me for bringing less dowry.,85
+197,My in-laws and husband abuse me daily and do not let me meet my parents.,85
+198,The accused and his mother harassed me daily with unmet dowry demands.,85
+199,My husband drinks daily and beats me causing serious injuries on my body.,85
+200,My in-laws harassed me for three years demanding more gold and cash causing mental torture.,85
+201,The accused administered medicine to my pregnant wife causing her to miscarry.,86
+202,The accused gave my daughter pills causing her to miscarry without her consent.,86
+203,A quack doctor administered injections causing my wife to miscarry her pregnancy.,86
+204,The accused gave herbal medicines to my pregnant sister forcing her to miscarry.,86
+205,The accused performed a procedure on my wife without consent causing miscarriage.,86
+206,The accused forcibly administered pills to my wife causing miscarriage without her knowledge.,87
+207,The accused gave injections to my wife while unconscious causing her to miscarry.,87
+208,Without consent of my daughter the accused performed a procedure causing her to miscarry.,87
+209,The accused administered something to my pregnant wife against her will causing miscarriage.,87
+210,The accused forced my wife to take medicines to cause miscarriage which she firmly refused.,87
+211,The accused forced my wife to take abortion medicines and she died due to complications.,88
+212,A backstreet abortionist performed an illegal procedure on my wife causing her death.,88
+213,The accused gave medicines to cause miscarriage and my wife's death resulted from it.,88
+214,An unlicensed person performed an abortion on my daughter leading to her death.,88
+215,The accused forced an abortion on my wife against her will and she died from complications.,88
+216,The accused deliberately caused harm to my pregnant wife to prevent the child being born.,89
+217,A person performed an act on my wife with intention of causing the child to die after birth.,89
+218,The accused administered something to prevent the child from being born alive.,89
+219,The accused caused injury to my wife resulting in the death of the newborn baby.,89
+220,A person deliberately prevented birth of my child by harming my wife during late pregnancy.,89
+221,The accused abandoned his infant daughter in an empty field intending to never return.,90
+222,Parents left a six-month-old baby outside the hospital with a note abandoning the child.,90
+223,The accused deliberately left his three-year-old child on the railway platform and fled.,90
+224,A child under two years was found abandoned by its parents near the temple.,90
+225,The accused mother left her newborn infant on the roadside in the cold intending to abandon.,90
+226,The accused secretly buried a newborn baby to conceal the birth from family.,91
+227,A person disposed of the dead body of a newborn child in a dustbin to conceal the birth.,91
+228,The accused threw the newborn's body in a river to conceal that the child was born.,91
+229,A woman secretly buried her newborn baby in the backyard to hide the birth.,91
+230,The accused concealed the birth by secretly disposing of the dead body of the newborn.,91
+231,The accused hired my 12-year-old son to carry drugs across the city for his gang.,92
+232,The accused employed a 10-year-old child to steal goods from shops.,92
+233,The accused used children under 14 years to commit theft in crowded places.,92
+234,The accused hired a minor child to break into houses as he could enter small openings.,92
+235,The accused used minor children to transport stolen goods across the city.,92
+236,The accused was convicted of stalking before and has again been found stalking me.,93
+237,The accused is a repeat stalker who was previously convicted and is stalking again.,93
+238,The accused who was convicted for stalking on a prior occasion is stalking another victim.,93
+239,The accused has been convicted of stalking twice now having committed it again.,93
+240,The accused after prior conviction for stalking has again committed the same offence.,93
+241,The accused was compelled to do the act under immediate threat of death from another person.,94
+242,The accused acted under immediate death threat and had no choice but to comply.,94
+243,I was forced to commit the act under immediate threat to my life by the real accused.,94
+244,The accused was under imminent threat of instant death and was compelled to act.,94
+245,The accused had no choice but to comply because of an immediate and real threat of death.,94
+246,The accused punched me in the stomach causing severe abdominal pain requiring medical attention.,95
+247,My neighbour slapped me multiple times causing pain and swelling on my cheek.,95
+248,The accused hit me with a wooden stick on my back causing severe pain and bruising.,95
+249,A group of men beat me on the street causing multiple bruises all over my body.,95
+250,The accused threw a stone at me which hit my shoulder causing pain and injury.,95
+251,The accused hit me with an iron rod causing a deep fracture in my skull.,96
+252,My eye was permanently damaged when the accused threw acid on my face.,96
+253,The accused amputated two fingers of my right hand with a blade during the assault.,96
+254,My leg was shattered in three places when the accused attacked me with a heavy object.,96
+255,The accused poured boiling water on my face causing permanent disfigurement.,96
+256,The accused voluntarily punched me in the face causing a bleeding nose and swollen eye.,97
+257,My colleague hit me with a chair during a workplace dispute causing injury to my shoulder.,97
+258,The accused intentionally pushed me down the stairs causing injuries to my knees.,97
+259,A man beat me with his fists outside the shop after a minor argument over space.,97
+260,The accused kicked me in my stomach causing me to fall and injure my back.,97
+261,The accused attacked me with an axe causing a deep gash on my thigh requiring surgery.,98
+262,My skull was fractured when the accused struck me repeatedly with an iron rod.,98
+263,The accused broke my arm with a cricket bat causing a serious fracture needing surgery.,98
+264,My eyes were severely damaged when the accused attacked me with a sharp object.,98
+265,The accused threw a heavy stone at my head causing a serious fracture and hospitalisation.,98
+266,The accused stabbed me with a knife in the stomach at the market causing a deep wound.,99
+267,The accused shot me with his pistol injuring my shoulder during the altercation.,99
+268,The accused attacked me with a sharp sword causing a deep cut on my arm.,99
+269,The accused threw acid at me causing burn injuries on my hands and face.,99
+270,The accused stabbed me with a screwdriver in my back causing a serious puncture wound.,99
+271,The accused beat me with an iron rod to force me to hand over property documents.,100
+272,The accused intentionally caused injury to force me to sign property transfer documents.,100
+273,The accused caused me hurt to force me to withdraw my legal complaint against him.,100
+274,The accused beat me to compel me to repay an amount I do not legally owe.,100
+275,The accused used violence against me to coerce me into an illegal act for his benefit.,100
+276,The accused beat me and gouged my eye to force me to hand over property to him.,101
+277,The accused caused grievous hurt by breaking my arm to compel me to sign business documents.,101
+278,The accused caused permanent hearing damage to extort large sums of money from me.,101
+279,The accused caused grievous hurt to my father to coerce him into selling family property.,101
+280,The accused broke my legs to force me to reveal the location of the company cash reserves.,101
+281,The accused stabbed the police officer who came to arrest him causing serious injury.,102
+282,The accused attacked the revenue inspector with a weapon while he was on official duty.,102
+283,The accused beat the health inspector who came to inspect the factory causing injury.,102
+284,The accused assaulted the election observer to prevent him discharging his official duty.,102
+285,The accused attacked the court process server when he came to serve a lawful notice.,102
+286,The accused beat the magistrate grievously when he was pronouncing a lawful order.,103
+287,The accused caused grievous hurt to the constable while he was making a lawful arrest.,103
+288,The accused attacked the revenue officer with a heavy rod causing grievous head injury.,103
+289,The accused caused grievous hurt to the police inspector who was on official duty.,103
+290,The accused threw acid at the excise officer causing grievous burns while he was on a raid.,103
+291,The accused hit me in a sudden fit of anger after I abused him very badly in public.,104
+292,I slapped the accused after he abused me with offensive words in front of others.,104
+293,After the accused used highly provocative language I caused hurt to him in sudden anger.,104
+294,The accused punched the person who had just slapped him without any warning.,104
+295,I hit the accused once because he had greatly insulted my deceased parent publicly.,104
+296,The accused drove his vehicle rashly through the market endangering lives of shoppers.,105
+297,The accused was driving his motorcycle recklessly at high speed endangering pedestrians.,105
+298,The accused recklessly handled chemicals in his shop endangering the lives of residents.,105
+299,The accused drove his tractor carelessly on a busy road putting many lives at risk.,105
+300,The accused operated a machine without safety measures endangering the lives of workers.,105
+301,The driver was speeding recklessly and hit my son on the road killing him on the spot.,106
+302,The truck driver negligently ran over my wife while she was walking on the footpath.,106
+303,A speeding bike rider knocked down and killed my mother at the road crossing.,106
+304,The accused drove while drunk and rammed into my father causing fatal injuries.,106
+305,The negligent driver ran a red light at high speed and killed my sister.,106
+306,The accused fired a gun at me with clear intention to kill but missed and injured my arm.,107
+307,The accused attacked me with a knife aiming at my neck clearly intending to kill me.,107
+308,The accused poured kerosene on me and tried to light a match to set me on fire.,107
+309,My business rival hired men to attack me with the clear intention of killing me.,107
+310,The accused deliberately drove his car at me at high speed attempting to murder me.,107
+311,The accused attacked me with an iron rod aiming at my head intending to seriously injure me.,108
+312,The accused fired his gun at me intending to cause hurt likely to cause death.,108
+313,The accused threw a heavy stone at me from above aiming at my head.,108
+314,The accused stabbed at me with a knife but missed causing only a minor cut.,108
+315,The accused pushed me off a moving vehicle intending to cause grievous hurt.,108
+316,My son committed suicide after the accused continuously harassed and mentally abused him.,109
+317,The accused systematically harassed my daughter for months forcing her to take her life.,109
+318,My wife ended her life because the accused blackmailed her leaving no other option.,109
+319,The accused drove my brother to suicide by publicly humiliating him repeatedly.,109
+320,The victim hanged herself after being continuously tormented by the accused.,109
+321,The accused threatened to attempt suicide in front of the government office to coerce an officer.,110
+322,The accused attempted suicide in the police station demanding an officer be transferred.,110
+323,A person tried to harm himself inside the government office to coerce public servants.,110
+324,The accused threatened to end his life in front of the collector's office to compel action.,110
+325,A person attempted self-harm inside the court premises to coerce the judge.,110
+326,The accused is the leader of an organised crime gang involved in extortion and smuggling.,111
+327,A crime syndicate extorted money from multiple businesses using threats and violence.,111
+328,The accused organised and led a criminal gang that committed multiple robberies.,111
+329,A criminal syndicate threatened to harm my family if I did not pay protection money.,111
+330,An organised crime group kidnapped a local businessman and demanded a large ransom.,111
+331,The accused is part of a gang that systematically commits mobile phone snatching.,112
+332,A group of petty criminals steal goods from shops in a coordinated manner.,112
+333,The gang to which the accused belongs commits cheating posing as government officials.,112
+334,The accused is a member of a group engaged in unauthorised ticket touting.,112
+335,A gang commits organised cheating posing as insurance agents to cheat senior citizens.,112
+336,The accused was arrested planning a bomb blast at a crowded public market.,113
+337,A terrorist planted explosives at the railway station to cause mass casualties.,113
+338,The accused was found with materials to make explosive devices to spread terror.,113
+339,The group planned coordinated attacks on multiple government buildings.,113
+340,The accused was communicating with a foreign terrorist organisation to plan attacks in India.,113
+341,The accused chased my brother with a weapon intending to kill him though he escaped.,114
+342,The accused attacked my father with a heavy rod causing injuries that could have been fatal.,114
+343,The accused poured acid on my colleague in a manner likely to cause death.,114
+344,The accused fired his weapon toward a group of people which could have caused deaths.,114
+345,The accused engaged in acts that could constitute culpable homicide but death did not occur.,114
+346,The accused stabbed my brother with a knife during a fight resulting in his death.,115
+347,The accused hit my father on the head with a heavy rod causing his death on the spot.,115
+348,The accused shot my uncle three times resulting in his immediate death outside the market.,115
+349,The accused poisoned my mother by adding something to her food and she died.,115
+350,The accused deliberately ran over my son with his vehicle killing him on the road.,115
+351,The accused murdered the prison warden while serving a life sentence inside jail.,116
+352,A lifer attacked and killed a fellow prisoner during a dispute inside prison.,116
+353,The person serving life imprisonment committed murder inside the jail premises.,116
+354,The accused serving a sentence of life imprisonment committed another murder in prison.,116
+355,The life convict attacked the jail official with a weapon while serving his sentence.,116
+356,My brother committed suicide after the accused landlord continuously harassed and threatened him.,117
+357,My colleague ended his life because the accused employer harassed and humiliated him daily.,117
+358,The accused mentally tortured my father driving him to end his own life.,117
+359,The victim a minor took his life after the accused bullied and threatened him for months.,117
+360,The accused systematically drove my friend to depression and ultimately to suicide.,117
+361,The accused attacked the off-duty police officer with an iron rod causing grievous injury.,118
+362,The accused fired at the revenue official causing serious gunshot wounds during the raid.,118
+363,The accused caused grievous hurt to the court process server when serving a warrant.,118
+364,The accused threw acid at an excise officer on duty causing grievous burns to his face.,118
+365,The accused shot the constable on duty causing grievous injury to both his legs.,118
+366,The accused did not disclose the murder plan to police when he knew about it in advance.,119
+367,The accused concealed knowledge of a planned terrorist attack from authorities.,119
+368,The accused knew his associates planned to kill my father but did not report it.,119
+369,The accused used encrypted messaging to conceal a conspiracy to commit a serious offence.,119
+370,The accused was aware of a plot to commit robbery but actively concealed it from police.,119
+371,The accused beat me with a stick to force me to reveal the location of the company safe.,120
+372,The accused caused hurt to my father to extract information about our family's assets.,120
+373,The accused injured me to compel me to sign documents transferring property to him.,120
+374,The accused beat my son to force him to reveal passwords to company bank accounts.,120
+375,The accused caused injury to my mother to compel me to withdraw money for him.,120
+376,The accused broke my arm to compel me to reveal where all our family's gold is kept.,121
+377,The accused caused grievous hurt to my father to force him to sell ancestral property.,121
+378,The accused threw acid on my face to coerce me into signing property transfer documents.,121
+379,The accused broke both my legs to force me to return money in a business dispute.,121
+380,The accused caused serious grievous hurt to my brother to force him to give up his business.,121
+381,The accused punched the police officer and broke his nose while resisting lawful arrest.,122
+382,The accused threw stones at revenue officials preventing them from discharging official duty.,122
+383,The accused stabbed the government health inspector when he came for an official visit.,122
+384,The accused deliberately hurt election commission officials to disrupt the election process.,122
+385,The accused hit the forest officer with a stick when he came to prevent illegal tree cutting.,122
+386,The accused broke the police officer's arm with an iron rod while resisting arrest.,123
+387,The accused caused grievous hurt to the municipal inspector who came to demolish illegal construction.,123
+388,The accused broke the revenue officer's leg to prevent him from completing his survey.,123
+389,The accused threw acid at the labour inspector causing grievous burns on official duty.,123
+390,The accused shot the excise officer causing grievous hurt when he conducted a liquor raid.,123
+391,The accused blocked my pathway with his vehicle and refused to let me pass for an hour.,124
+392,My neighbour built a gate blocking my right of way preventing me from using my path.,124
+393,The accused stood in front of my door for hours preventing me from entering my house.,124
+394,My business rival hired people to block my shop entrance preventing customers from entering.,124
+395,The accused deliberately parked his vehicle to block my exit daily for the past two weeks.,124
+396,The accused locked me in a room for two days without food or water.,125
+397,I was forcibly confined in the basement of the accused's house for four days.,125
+398,The accused tied my hands and kept me in a room refusing to let me go.,125
+399,My employer locked me in the office overnight refusing to let me leave.,125
+400,The accused confined me in his vehicle for hours not allowing me to exit.,125
+401,The accused wrongfully confined me to extort fifty thousand rupees from my family.,126
+402,The accused confined me in his house for three days to force me to hand over property documents.,126
+403,The accused locked me in a room to force me to sign a confession for something I did not do.,126
+404,The accused confined my father in his house demanding money for his freedom.,126
+405,The accused confined me in his vehicle demanding I transfer money to him.,126
+406,The accused confined me in his house demanding information about our company's finances.,127
+407,The accused wrongfully confined me demanding I return jewellery that I had not taken.,127
+408,The accused confined my brother demanding he confess to a crime he had not committed.,127
+409,The accused wrongfully confined my friend to extract a confession to benefit his case.,127
+410,The accused confined me to force me to disclose the location of a valuable property document.,127
+411,The accused raised his fist at me and made threatening gestures causing me to fear attack.,128
+412,The accused picked up a heavy rod and gestured as if to strike me.,128
+413,The accused approached me with a knife in hand making me fear he would attack.,128
+414,The accused aimed a gun at me and made threatening gestures causing fear for my life.,128
+415,The accused made preparation to attack me by picking up a stone in a threatening manner.,128
+416,The accused shoved me from behind causing me to fall and injure my knee on the pavement.,129
+417,The accused used force to snatch my bag causing me to fall on the road.,129
+418,The accused pushed me into the road as a vehicle was passing causing danger.,129
+419,The accused grabbed my arm and twisted it forcefully without any reason.,129
+420,The accused used force against me to prevent me from entering my own office.,129
+421,The accused assaulted me to commit theft of my mobile phone.,130
+422,The accused used criminal force against me intending to annoy me in front of my family.,130
+423,The accused pushed me and grabbed my chain to rob it using criminal force.,130
+424,The accused used force to prevent me from calling police during an ongoing crime.,130
+425,The accused used criminal force to prevent me from exercising my legal right to use the road.,130
+426,The accused slapped me on grave and sudden provocation after I abused him badly.,131
+427,I hit the accused once after he slapped my wife without any warning.,131
+428,The accused struck me after I made an offensive remark about his father in anger.,131
+429,On sudden provocation I pushed the accused causing him to fall and suffer minor hurt.,131
+430,The accused raised his hand against me after I had just grievously insulted him publicly.,131
+431,The accused attacked the police officer while he was trying to make a lawful arrest.,132
+432,The accused assaulted the government official who was on duty.,132
+433,The accused hit the revenue officer to prevent him from discharging his official functions.,132
+434,The accused assaulted the income tax officer who came to search his premises.,132
+435,The accused attacked the court bailiff when he came to execute a court order.,132
+436,The accused publicly slapped my sister intending to humiliate her in the market.,133
+437,The accused stripped and paraded the victim publicly to dishonour her before a crowd.,133
+438,The accused publicly humiliated my mother by pouring garbage on her before witnesses.,133
+439,The accused forcibly removed my wife's dupatta in public to dishonour her before others.,133
+440,The accused made obscene and dishonourable remarks against my sister with criminal intent.,133
+441,The accused grabbed my bag and pushed me while attempting to snatch my jewellery.,134
+442,The accused used force against me while attempting to steal my mobile phone.,134
+443,The accused pushed me from behind trying to grab my chain while I was walking home.,134
+444,The accused assaulted me while attempting to snatch the bag I was carrying.,134
+445,The accused grabbed my wrist forcefully while attempting to remove my gold bangle.,134
+446,The accused grabbed and pushed me while trying to remove my gold necklace in the market.,135
+447,The accused pushed me forcefully pulling my earrings from my ears causing injury.,135
+448,The accused assaulted me while trying to outrage my modesty on the crowded bus.,135
+449,The accused grabbed my arm causing pain while making an attempt to snatch my valuables.,135
+450,The accused pushed me to the ground and tried to remove my jewellery in the street.,135
+451,I reacted by slapping the person who had just grabbed me by my collar rudely.,136
+452,I pushed away the accused who had grabbed my sister outraging her modesty.,136
+453,On sudden provocation I hit the accused who had just tried to outrage my modesty.,136
+454,I slapped the accused once on sudden anger after he made an obscene gesture at me.,136
+455,I reacted physically when the accused made an inappropriate physical contact with me.,136
+456,My 15-year-old daughter was kidnapped from outside her school and taken to an unknown location.,137
+457,An unknown man forcibly took my minor son from the playground demanding ransom.,137
+458,My sister was abducted by a group who took her away in a vehicle from the market.,137
+459,The accused lured my 10-year-old nephew away with false promises and disappeared.,137
+460,My wife was forcibly removed from our home by a group of armed men.,137
+461,My daughter was lured away by the accused with a false promise of employment.,138
+462,The accused forcibly abducted my brother from outside his office.,138
+463,A man deceived my wife with false information and took her away from our home.,138
+464,The accused forcibly pulled my elderly mother into a vehicle and drove away.,138
+465,By threats and deception the accused forced my colleague to leave with him.,138
+466,My brother was kidnapped and we received a message saying he would be killed for ransom.,139
+467,The accused abducted my father and threatened to murder him if we called the police.,139
+468,My cousin was kidnapped and taken to an isolated location where they planned to murder him.,139
+469,The kidnappers took my son and threatened to kill him by morning if ransom not paid.,139
+470,Three men abducted my employer and made it clear they intended to kill him.,139
+471,The kidnappers sent a video of my son being beaten and demanded two crore rupees ransom.,140
+472,The accused abducted my father and demanded five lakh rupees from our family.,140
+473,The kidnappers threatened to harm my husband if we contacted police or media.,140
+474,The accused abducted my daughter and demanded ransom threatening to kill her if we delayed.,140
+475,My son was kidnapped and the abductors demanded we not inform police or they would kill him.,140
+476,The accused kidnapped my sister intending to sell her into forced labour.,141
+477,The accused abducted women from our village to subject them to forced prostitution.,141
+478,The accused kidnapped my brother to subject him to grievous hurt as part of a dispute.,141
+479,The accused abducted my cousin to use her as bonded labour in his factory.,141
+480,The kidnapper abducted my daughter to force her into servitude to repay a fictional debt.,141
+481,The accused knew my daughter had been kidnapped and deliberately hid her in his house.,142
+482,The accused concealed a kidnapped boy in his flat knowing fully the child had been abducted.,142
+483,The accused helped hide the kidnapped victim in his warehouse knowing about the abduction.,142
+484,The accused deliberately locked the kidnapped woman in his house knowing she had been abducted.,142
+485,The accused was aware the person he was hiding had been abducted yet continued to conceal her.,142
+486,The accused kidnapped my 8-year-old son to steal his expensive gold chain.,143
+487,The accused abducted a 9-year-old girl to steal the gold jewellery she was wearing.,143
+488,The accused kidnapped a 7-year-old child to steal cash given by the child's grandfather.,143
+489,The accused took away a 10-year-old child to steal the expensive watch he wore.,143
+490,The accused kidnapped a 6-year-old boy to steal the ring and chain his parents gave him.,143
+491,A man offered my daughter a job in the city and then sold her into forced labour.,144
+492,The accused promised good jobs to village girls and instead trafficked them to another city.,144
+493,My sister was recruited by an agent who turned out to be a human trafficker.,144
+494,Young men from our village were trafficked by a labour contractor for bonded labour.,144
+495,The accused tricked poor women into coming with him and then trafficked them.,144
+496,The accused knowingly ran an agency that supplied trafficked women for domestic work.,145
+497,The accused was found harbouring trafficked persons knowing they had been trafficked.,145
+498,The accused willfully employed trafficked persons knowing they were victims of trafficking.,145
+499,The accused transported trafficked persons between cities knowing they were being exploited.,145
+500,The accused used the services of trafficked women knowing they were being exploited.,145
+501,The accused habitually buys and sells bonded labourers in the brick kiln belt.,146
+502,The accused compelled my brother to work at his farm without any payment.,146
+503,The accused unlawfully forced migrant workers to work in his factory without payment.,146
+504,The accused habitually deals in exploited workers kept in bondage at his farm.,146
+505,The accused forced migrant workers to work without pay using threats of violence.,146
+506,The accused and his associates were caught planning an armed attack to overthrow the government.,147
+507,The accused was found planning to wage war against the Indian government with foreign help.,147
+508,Armed militants were arrested while planning a violent attack on Indian state institutions.,147
+509,The accused was gathering weapons and planning an armed insurrection against the government.,147
+510,The accused was found coordinating with foreign elements to wage war against India.,147
+511,The accused conspired with others to plan a violent overthrow of the Indian government.,148
+512,The accused was part of a larger conspiracy to commit offences against India's sovereignty.,148
+513,The accused and his associates conspired to collect arms and attack government institutions.,148
+514,The accused was found to be a key conspirator in planning violent attacks on government.,148
+515,The accused conspired with foreign nationals to threaten India's integrity.,148
+516,The accused was found stockpiling illegal weapons and ammunition to wage war against India.,149
+517,The accused had collected a large cache of arms and was training men for armed rebellion.,149
+518,A group was arrested while collecting weapons for armed action against the state.,149
+519,The accused was caught with explosives and weapons intended for use against the Indian state.,149
+520,The accused was recruiting men and collecting funds to wage war against the Government of India.,149
+521,The accused knew of a plot to attack government buildings but deliberately concealed it.,150
+522,The accused was aware of a plan to wage war against the government and actively concealed it.,150
+523,The accused did not inform authorities despite knowing of a conspiracy to attack Parliament.,150
+524,The accused concealed knowledge of a terrorist plot against the Indian state from authorities.,150
+525,The accused knew his associates were planning armed rebellion but concealed it from police.,150
+526,The accused and his group attempted to forcibly confine the Chief Minister to coerce him.,151
+527,The accused tried to physically coerce the Governor to exercise his powers in a particular way.,151
+528,A group attacked the President's convoy trying to overawe him into making certain decisions.,151
+529,The accused used criminal force to threaten a High Court judge to compel a particular judgment.,151
+530,The accused mob tried to overawe the State Legislature by surrounding it with armed persons.,151
+531,The accused made speeches calling for armed rebellion and separation of a state from India.,152
+532,The accused published material on social media calling for violent secession of a region.,152
+533,The accused distributed pamphlets encouraging separatist and anti-national sentiments.,152
+534,The accused made inflammatory speeches encouraging armed uprising against Indian sovereignty.,152
+535,The accused collected funds specifically to support secessionist activities in a border state.,152
+536,The accused waged war against a friendly neighbouring foreign state from Indian territory.,153
+537,The accused attacked the forces of a nation at peace with India from within India.,153
+538,The accused helped plan a military attack against a neighbouring state at peace with India.,153
+539,The accused abetted an attack against a foreign state friendly with India.,153
+540,The accused organised an assault against a foreign nation at peace with the Government of India.,153
+541,The accused made raids into the territory of a neighbouring country at peace with India.,154
+542,The accused looted and committed depredation on the territories of a friendly foreign state.,154
+543,The accused was preparing to carry out depredation on the territories of a friendly nation.,154
+544,The accused carried out raids and plunder in a foreign territory at peace with India.,154
+545,The accused committed plunder on the territory of a foreign state that is at peace with India.,154
+546,The accused received goods knowing they were looted from a friendly foreign state.,155
+547,The accused purchased property knowing it was taken during raids on a friendly nation.,155
+548,The accused was found possessing property looted from the territory of a friendly foreign state.,155
+549,The accused received plundered goods knowing they came from depredation on a friendly country.,155
+550,The accused accepted and received property plundered from a foreign state at peace with India.,155
+551,The police officer allowed the murder accused to escape by intentionally letting him go.,156
+552,The jail officer intentionally allowed the state prisoner to escape from custody.,156
+553,The constable intentionally allowed an arrested person to walk away from his custody.,156
+554,The officer in charge of the accused intentionally let him escape.,156
+555,The public servant who was supposed to keep the state prisoner in custody let him go.,156
+556,The prison guard negligently allowed the state prisoner to escape from the lock-up.,157
+557,The jail guard negligently allowed a prisoner of war to escape from confinement.,157
+558,The constable negligently allowed the arrested person to escape from custody.,157
+559,The officer negligently failed to prevent the state prisoner from escaping.,157
+560,The public servant negligently allowed the person under his custody to escape.,157
+561,The accused knowingly helped the state prisoner escape from lawful custody.,158
+562,The accused assisted a prisoner of war in escaping from the place of confinement.,158
+563,The accused rescued a state prisoner who was being transported to jail.,158
+564,The accused harboured and concealed a state prisoner who had escaped from custody.,158
+565,The accused knowingly helped a war prisoner escape from a place of legal confinement.,158
+566,The accused tried to persuade soldiers in a cantonment to mutiny against their commanders.,159
+567,The accused was found distributing seditious material among soldiers to incite mutiny.,159
+568,The accused attempted to seduce an army officer away from his duty and allegiance.,159
+569,The accused was caught communicating with soldiers to encourage them to disobey officers.,159
+570,The accused distributed pamphlets inside an army camp encouraging soldiers to mutiny.,159
+571,The accused abetted a mutiny in the naval base and the mutiny actually occurred as a result.,160
+572,The accused encouraged soldiers to mutiny and the soldiers committed mutiny thereafter.,160
+573,The accused instigated airforce personnel to commit insubordination and they did so.,160
+574,The accused distributed material in the army camp and mutiny actually occurred afterward.,160
+575,The accused incited army personnel to mutiny and the mutiny was actually committed.,160
+576,The accused encouraged a soldier to assault his commanding officer while on duty.,161
+577,The accused abetted a naval rating to assault his superior officer during official duty.,161
+578,The accused instigated a constable to physically attack the senior police officer.,161
+579,The accused encouraged a soldier to attack the commanding officer when he issued orders.,161
+580,The accused abetted a cadet to assault his training officer during the exercise.,161
+581,The assault on the superior officer actually occurred as a result of the accused's abetment.,162
+582,As a result of the accused's abetment the junior officer actually assaulted his superior.,162
+583,Following the accused's instigation the airforce cadet struck his superior officer.,162
+584,The assault on the superior officer occurred because the accused had abetted and encouraged it.,162
+585,The accused abetted the assault and it was actually committed by the soldier.,162
+586,The accused abetted a soldier to desert his post and the soldier did in fact desert.,163
+587,The accused helped an army officer desert his post by providing transport and civilian clothes.,163
+588,The accused assisted an airforce pilot in deserting his assignment with false identity papers.,163
+589,The accused helped a naval officer desert his post and go into hiding.,163
+590,The accused provided assistance to a soldier who deserted and helped him flee the country.,163
+591,The accused instigated a military officer to disobey a lawful order from his superior.,164
+592,The accused encouraged soldiers to engage in acts of deliberate insubordination.,164
+593,The accused abetted airforce personnel in refusing to follow lawful orders from superiors.,164
+594,The accused instigated a group of soldiers to act in insubordinate ways toward their officers.,164
+595,The accused distributed material that encouraged soldiers to engage in insubordination.,164
+596,The accused being a military person is subject to the Army Act and not this Code.,165
+597,The case involves persons subject to the Air Force Act to be tried under that legislation.,165
+598,The accused being a naval person is governed by the Navy Act and not this Code.,165
+599,The accused military personnel are subject to the Army Act 1950 not to BNS provisions.,165
+600,The offenders being naval personnel are governed by the Navy Act not by this Sanhita.,165
+601,The accused was wearing an army uniform without being a soldier intending to deceive people.,166
+602,The accused wore a police uniform while not being a police officer to gain public trust.,166
+603,The accused carried insignia of an army officer to deceive people into believing he was a soldier.,166
+604,A civilian was found wearing an air force uniform to deceive airport security officials.,166
+605,The accused wore a naval officer's uniform to impersonate a naval officer at the port.,166
+606,The accused abetted a soldier's assault on his superior and the assault actually took place.,167
+607,The assault on the superior officer occurred because the accused had instigated it.,167
+608,The accused encouraged the soldier to assault the officer and the assault was committed.,167
+609,Following the accused's abetment the airforce cadet struck his superior officer.,167
+610,The accused instigated the assault and the act was actually committed by the soldier.,167
+611,The accused used money and persuasion to try to seduce an officer from his military allegiance.,168
+612,The accused attempted to buy the loyalty of an army officer away from his country.,168
+613,The accused used threats and inducements to seduce a soldier from his duty.,168
+614,The accused offered large sums of money to a naval officer to betray his duty.,168
+615,The accused worked to undermine the loyalty of army officers through inducements.,168
+616,The accused was found trying to influence the returning officer during election proceedings.,169
+617,The accused interfered in election-related proceedings to gain unfair advantage.,169
+618,The accused was found attempting to influence election officials corruptly.,169
+619,The accused corrupted election proceedings to manipulate the outcome of the vote.,169
+620,The accused committed an election-related offence involving interference with the process.,169
+621,The accused distributed cash to voters to induce them to vote for a particular candidate.,170
+622,The accused gave gifts to voters to reward them for voting in a particular manner.,170
+623,The accused was caught distributing liquor to voters to induce them to vote for his party.,170
+624,The accused distributed money in envelopes to voters just before the election polling day.,170
+625,The accused gave cash to a village elder to distribute to voters as a bribe.,170
+626,The accused voted in the name of a deceased person at the polling station.,171
+627,The accused impersonated another living voter and obtained his ballot paper fraudulently.,171
+628,The accused voted twice in his own name at two different polling booths.,171
+629,The accused voted in the name of another person who had not come to vote.,171
+630,The accused voted using the voter ID of a deceased relative to cast an extra vote.,171
+631,The accused and his men threatened voters near the polling booth preventing them from voting.,172
+632,The accused intimidated minority voters to prevent them from exercising voting rights.,172
+633,The accused brought armed men near the polling station to intimidate voters.,172
+634,The accused threatened voters who intended to vote for the opposition candidate.,172
+635,The accused created an atmosphere of fear to prevent free voting.,172
+636,The accused made communal speeches during the election campaign promoting religious hatred.,173
+637,The accused distributed literature promoting communal hatred to influence election results.,173
+638,The accused made inflammatory statements about a religious community to gain votes.,173
+639,The accused used religious symbols to promote communal division during elections.,173
+640,The accused made public speeches using caste divisions to influence voters.,173
+641,The accused made false statements about the opposing candidate's criminal record to defame him.,174
+642,The accused published false news about a candidate's personal conduct to damage his reputation.,174
+643,The accused circulated false information about a candidate's qualifications before elections.,174
+644,The accused spread fabricated stories about the opposing candidate to damage his chances.,174
+645,The accused made up false allegations about the personal character of the opposing candidate.,174
+646,The accused incurred election expenses without the candidate's written authority.,175
+647,The accused spent money on election publicity without the candidate's written permission.,175
+648,The accused organised rallies and paid for advertisements without the candidate's consent.,175
+649,The accused made payments for election printing without authority from the candidate.,175
+650,The accused paid for public meetings and canvassing without the candidate's written authorisation.,175
+651,The candidate failed to maintain proper accounts of all election-related expenditure.,176
+652,The accused did not keep records of money spent during the election campaign as required by law.,176
+653,The candidate did not file proper election expense accounts within the required time.,176
+654,The accused failed to maintain accounts of all donations received during the election.,176
+655,The candidate maintained false accounts of election expenditure to conceal actual spending.,176
+656,The accused engaged in corrupt practices as defined by election law to get votes.,177
+657,The accused committed multiple corrupt practices during the election to defeat his opponent.,177
+658,The accused engaged in booth capturing which is a corrupt practice under election law.,177
+659,The accused committed corrupt practices including bribing voters and intimidating opponents.,177
+660,The accused engaged in corrupt electoral practices defined in the election laws.,177
+661,The accused was manufacturing counterfeit coins in a secret workshop.,178
+662,The accused was running an illegal operation to counterfeit various denomination coins.,178
+663,A counterfeiting workshop was found in the accused's basement where fake coins were made.,178
+664,The accused was part of a gang that counterfeited and distributed fake coins.,178
+665,The accused was knowingly involved in the process of counterfeiting coins.,178
+666,The accused was manufacturing counterfeit rupee coins that are legal tender in India.,179
+667,The accused was found with equipment to counterfeit Indian rupee coins.,179
+668,The accused counterfeited Indian currency coins worth several lakh rupees.,179
+669,The accused was involved in counterfeiting Indian legal tender coins.,179
+670,The accused ran a factory that produced counterfeit Indian rupee coins.,179
+671,The accused made a special mold designed to make counterfeit coins.,180
+672,The accused sold coin-making dies he knew would be used to counterfeit currency.,180
+673,The accused manufactured instruments specifically for counterfeiting coins.,180
+674,The accused made and sold equipment for counterfeiting coins to criminal gangs.,180
+675,The accused supplied coin counterfeiting tools to people known to be counterfeiters.,180
+676,The accused had special equipment for counterfeiting coins in his possession.,181
+677,The accused was found with tools used specifically to make counterfeit coins.,181
+678,The accused had coin molds and dies knowing they were used for counterfeiting.,181
+679,The accused stored counterfeiting instruments knowing their illegal purpose.,181
+680,The accused possessed specialised equipment intended for making fake currency coins.,181
+681,The accused in India assisted an overseas counterfeiting operation by providing designs.,182
+682,The accused helped a counterfeiting ring operating outside India with technical help.,182
+683,The accused in India abetted counterfeiting of Indian coins being done abroad.,182
+684,The accused assisted foreign counterfeiters to produce fake Indian currency.,182
+685,The accused helped plan and execute a coin counterfeiting operation outside India.,182
+686,The accused was printing counterfeit currency notes in a secret printing press.,183
+687,The accused ran an illegal operation producing fake currency notes.,183
+688,A printing press was found producing fake currency notes of high denomination.,183
+689,The accused was part of a network that counterfeited and distributed fake currency notes.,183
+690,The accused was knowingly involved in producing counterfeit currency notes.,183
+691,The accused was manufacturing counterfeit hundred-rupee notes legal tender in India.,184
+692,The accused was found with equipment to counterfeit Indian currency notes.,184
+693,The accused printed counterfeit Indian currency notes worth several lakh rupees.,184
+694,The accused was involved in counterfeiting Indian legal tender bank notes.,184
+695,The accused ran a factory that produced counterfeit Indian currency notes.,184
+696,The accused made printing plates designed to make counterfeit currency notes.,185
+697,The accused sold printing equipment he knew would be used to counterfeit currency.,185
+698,The accused manufactured instruments specifically for counterfeiting currency notes.,185
+699,The accused made and sold printing equipment for counterfeiting currency notes.,185
+700,The accused supplied currency note counterfeiting equipment to criminals.,185
+701,The accused had printing presses and plates for counterfeiting currency notes in his house.,186
+702,The accused was found with tools used specifically to make counterfeit currency notes.,186
+703,The accused had printing equipment knowing it was used for counterfeiting currency.,186
+704,The accused stored counterfeiting instruments in his house knowing their illegal purpose.,186
+705,The accused possessed specialised printing equipment for making fake currency notes.,186
+706,The accused was printing counterfeit revenue stamps in a secret location.,187
+707,The accused counterfeited government revenue stamps in a secret printing press.,187
+708,A printing press was found producing fake government stamps.,187
+709,The accused was operating a counterfeiting ring producing fake government stamps.,187
+710,The accused produced large quantities of counterfeit government revenue stamps.,187
+711,The accused possessed printing equipment that was used for making fake government stamps.,188
+712,The accused had in his possession tools used to counterfeit revenue stamps.,188
+713,The accused was found with equipment for counterfeiting government stamps.,188
+714,The accused had the printing instruments used for making fake revenue stamps.,188
+715,The accused possessed printing tools knowing they were used for stamp counterfeiting.,188
+716,A mob of thirty people assembled unlawfully near the collector's office to overawe officials.,189
+717,An unlawful assembly gathered outside the court to intimidate the judges inside.,189
+718,A group of fifty people assembled to resist execution of a court order by force.,189
+719,An unlawful mob assembled and threatened local officials with criminal force.,189
+720,A group assembled unlawfully near the police station to intimidate law enforcement.,189
+721,The accused knowingly joined an unlawful assembly gathered to overawe government officials.,190
+722,The accused continued to participate in the unlawful mob knowing its unlawful purpose.,190
+723,The accused joined a mob gathered to commit criminal trespass on government property.,190
+724,The accused stayed in the unlawful assembly after being told it was unlawful.,190
+725,The accused intentionally participated in a mob gathered to resist law enforcement.,190
+726,A mob of thirty people rioted at the market using sticks and stones injuring many people.,191
+727,Members of the unlawful assembly started violence destroying shops and injuring bystanders.,191
+728,The rioters attacked our locality destroying property and injuring many residents.,191
+729,A group of people rioted near the police station pelting stones and setting vehicles on fire.,191
+730,The assembly turned violent and members started assaulting people and looting shops.,191
+731,The rioters were armed with knives swords and iron rods when they attacked the market.,192
+732,The accused was part of a rioting mob armed with deadly axes and swords.,192
+733,The rioters carried deadly weapons including guns and swords during the riot.,192
+734,Armed rioters carrying knives and iron rods attacked the minority neighbourhood.,192
+735,The rioting mob was armed with deadly weapons including sharp swords and firearms.,192
+736,The accused refused to disperse from the unlawful assembly even after police ordered them.,193
+737,The mob members continued rioting even after the police read out the order to disperse.,193
+738,The accused ignored repeated commands to disperse from the public servant.,193
+739,The accused stayed in the unlawful assembly even after multiple warnings by the magistrate.,193
+740,The accused continued to participate in the unlawful assembly after police ordered dispersal.,193
+741,The accused delivered a speech at a public meeting promoting hatred between two communities.,194
+742,Inflammatory messages were circulated on social media by the accused to create communal tension.,194
+743,The accused published content online that promoted enmity between two religious communities.,194
+744,A series of provocative posts made by the accused targeted a specific religious community.,194
+745,The accused made speeches spreading hatred between two different castes in the local area.,194
+746,The accused publicly alleged that people of a certain religion cannot be loyal to India.,195
+747,The accused made speeches claiming a particular religious community cannot uphold Indian sovereignty.,195
+748,The accused published articles claiming people of a certain caste are not loyal to the Constitution.,195
+749,The accused made public statements about a regional group being disloyal to the Indian state.,195
+750,The accused distributed pamphlets claiming members of a religious group are anti-national.,195
+751,The accused desecrated a temple and broke religious idols creating communal unrest.,196
+752,An unknown person defiled a mosque by throwing prohibited items inside the compound.,196
+753,The religious symbols of our community were deliberately destroyed by the accused.,196
+754,The accused set fire to a religious building belonging to a minority community.,196
+755,Our place of worship was vandalised by the accused who broke idols and religious texts.,196
+756,The accused beat me with an iron rod and threatened to kill me if I voted against his candidate.,197
+757,The accused made threats against me to force me to vote for a particular candidate.,197
+758,The accused physically intimidated me at the polling station to influence my vote.,197
+759,The accused threatened to harm my family if I exercised my franchise freely.,197
+760,The accused and his associates threatened voters outside the polling station to influence votes.,197
+761,The public servant knowingly refused to register my FIR despite my providing all details.,198
+762,The officer disobeyed lawful orders causing deliberate harm to my legitimate business interests.,198
+763,The accused public servant violated legal procedures causing serious harm to the complainant.,198
+764,The government employee deliberately delayed processing my application causing financial harm.,198
+765,The public servant ignored legal directions and took illegal action against my property.,198
+766,The accused public servant prepared a false translation of a property document harming me.,199
+767,The government officer prepared a false record that caused injury to my legal rights.,199
+768,The public servant knowingly prepared an incorrect document to help his associate commit fraud.,199
+769,The accused translated the official document incorrectly knowing it would harm my interests.,199
+770,The government officer framed false records to save his associate from legal punishment.,199
+771,The government officer was found running a private business in violation of service rules.,200
+772,The public servant engaged in private trading business which is prohibited by government rules.,200
+773,The accused officer was found running a shop while employed as a government servant.,200
+774,The government employee was doing private consulting work prohibited under service rules.,200
+775,The public servant was operating a private business enterprise while holding government office.,200
+776,The government officer illegally purchased property that was on auction in a case he handled.,201
+777,The public servant bid for property in the court auction that he was legally prohibited from buying.,201
+778,The accused officer illegally bought land that was being sold under his official jurisdiction.,201
+779,The government servant purchased assets at a sale he was legally not permitted to bid at.,201
+780,The public servant illegally acquired property that was seized by the department he works in.,201
+781,The accused destroyed evidence of the murder to help his friend escape prosecution.,202
+782,The accused caused all key evidence to disappear to protect the real offender from punishment.,202
+783,The accused gave false information to police about the crime to help the actual offender escape.,202
+784,The accused removed the body and all evidence of the crime to screen the actual murderer.,202
+785,The accused gave deliberately misleading information to investigators to help the criminal escape.,202
+786,The accused who knew about the robbery failed to inform the police about it.,203
+787,The witness who saw the accident did not report it to police though he was legally bound to.,203
+788,The accused knew about the kidnapping but deliberately omitted to inform the authorities.,203
+789,The watchman who witnessed the burglary did not give information to police as required.,203
+790,The accused who had knowledge of the planned murder did not inform any public servant.,203
+791,The accused gave deliberately false information to police about the crime to mislead them.,204
+792,The witness gave false information about the accident to protect the driver who caused it.,204
+793,The accused gave police completely false information about a crime he knew about.,204
+794,The accused told police a completely fabricated story about the robbery to mislead them.,204
+795,The accused gave false information to the investigating officer to derail the investigation.,204
+796,The accused destroyed key documents that were required to be produced as evidence in court.,205
+797,The accused burnt all the relevant records before they could be seized by the authorities.,205
+798,The accused deleted important electronic records to prevent them from being produced in court.,205
+799,The accused shredded all financial documents that were needed as evidence in the court case.,205
+800,The accused made all the evidence illegible to prevent it being produced in judicial proceedings.,205
+801,The accused impersonated me in court and made admissions that caused me legal harm.,206
+802,The accused falsely pretended to be another person to cause a court order to be passed.,206
+803,The accused personated another person and confessed judgment in a case against that person.,206
+804,The accused became bail for a person by using a false identity in court proceedings.,206
+805,The accused impersonated another and did acts in a court case causing harm to that person.,206
+806,The accused physically resisted when the revenue officer tried to take attached property.,207
+807,The accused stopped the bailiff from taking possession of property under a court attachment order.,207
+808,The accused and his men physically prevented officers from taking seized property.,207
+809,The accused obstructed officials trying to execute a property attachment order against him.,207
+810,The accused resisted the lawful taking of property by government officers under legal authority.,207
+811,The accused deliberately failed to produce relevant land documents when legally required.,208
+812,The accused did not produce required documents before the tax officer despite being legally bound.,208
+813,The accused failed to produce company financial records before the investigating officer.,208
+814,The accused refused to hand over the required documents to the government officer.,208
+815,The accused deliberately withheld company accounts required to be produced by law.,208
+816,The factory owner deliberately failed to give required notice of an industrial accident.,209
+817,The accused did not furnish mandatory information to the licensing authority as required.,209
+818,The accused failed to give required information about imported goods to customs authorities.,209
+819,The accused deliberately omitted to give the required statutory notice to the government body.,209
+820,The accused failed to furnish mandatory reports to the regulatory authority as required.,209
+821,The accused refused to sign his statement before the police officer after giving the statement.,210
+822,The accused declined to sign the statement he had given before the executive magistrate.,210
+823,The accused refused to put his signature on his own statement given before a public servant.,210
+824,The accused gave a statement before the revenue officer and then refused to sign it.,210
+825,The accused refused to sign the declaration he had made before the public servant.,210
+826,The accused made a completely false statement to the police officer knowing it was untrue.,211
+827,The accused told the revenue inspector false facts about the property boundary.,211
+828,The accused gave the magistrate completely false information about his income.,211
+829,The accused made a false declaration about his assets to the government official.,211
+830,The accused gave false information to the customs officer about the contents of his cargo.,211
+831,The accused resisted the police when they tried to arrest him under a lawful warrant.,212
+832,The accused physically blocked police officers from making a lawful arrest.,212
+833,The accused ran away and physically resisted when police tried to apprehend him.,212
+834,The accused struggled violently with police officers trying to arrest him lawfully.,212
+835,The accused fled and resisted when officers came to execute a lawful arrest warrant.,212
+836,The accused created an obstruction to prevent the court-ordered auction of attached property.,213
+837,The accused interfered with a property auction being conducted under court order.,213
+838,The accused blocked the entry to the auction site to prevent lawful sale by the court officer.,213
+839,The accused obstructed officers conducting an auction of property under government authority.,213
+840,The accused physically disrupted a lawful property auction being conducted by a public servant.,213
+841,The accused purchased property at a government auction knowing he was legally disqualified.,214
+842,The accused bid at a court auction for property in the name of someone legally disqualified.,214
+843,The accused participated in a public auction knowing he could not legally buy it.,214
+844,The accused bought property at a government sale knowing a disqualified person's name was used.,214
+845,The accused bid at the auction using the name of a person who was legally ineligible to buy.,214
+846,The accused who was legally required to assist police in making an arrest refused to help.,215
+847,The person was legally bound to assist in executing a warrant but refused to render help.,215
+848,The accused failed to assist the constable who needed help to make a difficult arrest.,215
+849,The person who was legally obliged to aid the officer in his duty refused to do so.,215
+850,The accused though legally bound to assist the public servant in discharging duty refused.,215
+851,The police officer allowed the murder accused to escape by intentionally not apprehending him.,216
+852,The jail officer intentionally allowed the escaped convict to get away without recapturing him.,216
+853,The constable intentionally allowed the arrested person to flee from his custody.,216
+854,The officer in charge of the accused intentionally omitted to prevent his escape.,216
+855,The public servant who was supposed to keep the accused in custody intentionally let him go.,216
+856,The investigating officer deliberately disobeyed investigation guidelines to help the accused.,217
+857,The officer deliberately deviated from legal procedure to save the accused from punishment.,217
+858,The public servant violated lawful directions to protect his associate from legal consequences.,217
+859,The officer deliberately ignored legal requirements to help the accused avoid being punished.,217
+860,The public servant disobeyed his lawful duty to save the property of a criminal from forfeiture.,217
+861,The government officer prepared false records knowing they would lead to the accused's acquittal.,218
+862,The officer framed incorrect reports deliberately to save the accused from legal punishment.,218
+863,The public servant prepared false documents to protect property from lawful forfeiture.,218
+864,The officer wrote incorrect records with intent to save the criminal from legal punishment.,218
+865,The public servant framed a false record to save his associate's property from forfeiture.,218
+866,The judge corruptly made an order that he knew was contrary to the applicable law.,219
+867,The public servant in a judicial capacity corruptly gave a verdict he knew was illegal.,219
+868,The arbitrator corruptly passed an award knowing it was against the applicable law.,219
+869,The judicial officer made a judgment he knew to be against the law for corrupt reasons.,219
+870,The officer in a quasi-judicial role corruptly passed an order knowing it was illegal.,219
+871,The officer corruptly committed an innocent person to judicial custody knowing he was not liable.,220
+872,The magistrate maliciously committed the accused to prison knowing the detention was illegal.,220
+873,The officer committed the person to custody knowing the committal was contrary to law.,220
+874,The public servant with authority to commit persons to custody did so maliciously.,220
+875,The officer committed a person for trial knowing the commitment was not legally justified.,220
+876,The officer who was supposed to apprehend the criminal deliberately omitted to do so.,221
+877,The officer intentionally did not apprehend the criminal despite being legally bound to.,221
+878,The public servant deliberately failed to arrest a person he was legally obligated to arrest.,221
+879,The officer who was bound to apprehend the accused intentionally allowed him to escape.,221
+880,The constable deliberately did not arrest the person despite having legal authority to do so.,221
+881,The accused physically resisted the police and tried to escape from their custody.,222
+882,The accused offered illegal resistance to prevent his lawful apprehension by police.,222
+883,The accused struggled and tried to flee to prevent his lawful arrest.,222
+884,The accused used force to resist being taken into lawful custody by police officers.,222
+885,The accused violently resisted arrest and injured two police officers during the struggle.,222
+886,The police officer negligently allowed the murder accused to escape from the lock-up.,223
+887,The guard negligently allowed a convicted criminal to escape from custody.,223
+888,The constable negligently allowed the arrested person to walk away from his custody.,223
+889,The jail officer negligently failed to prevent the convicted prisoner from escaping.,223
+890,The officer on duty negligently allowed the person under his custody to escape.,223
+891,The accused tried to rescue his brother from the custody of police during the arrest.,224
+892,The accused illegally obstructed police from arresting another person.,224
+893,The accused physically intervened to prevent police from taking the person into custody.,224
+894,The accused helped his associate escape from police custody by distracting the officers.,224
+895,The accused used force to prevent police from arresting his associate at the market.,224
+896,The accused helped a deserting soldier evade lawful apprehension by police.,225
+897,The accused physically obstructed police from apprehending a person charged with desertion.,225
+898,The accused tried to prevent police from taking into custody a person absent without leave.,225
+899,The accused aided a military deserter in evading lawful arrest by police.,225
+900,The accused obstructed police who were trying to apprehend a military deserter.,225
+901,The convicted person who was sent outside India has returned to India unlawfully.,226
+902,The person who was transported as part of his sentence has illegally returned to India.,226
+903,The convicted person returned from his transportation without any lawful authority.,226
+904,The accused who was legally transported outside India returned without government permission.,226
+905,The person transported abroad as part of legal punishment has returned illegally to India.,226
+906,The accused gave completely false testimony in court about where he was on the night of the crime.,227
+907,A witness lied under oath providing a false alibi for the accused.,227
+908,The accused made false statements to the magistrate under oath to mislead the investigation.,227
+909,I have evidence showing the witness gave false evidence in the court proceedings.,227
+910,The accused fabricated his statement before the police knowingly giving incorrect information.,227
+911,The accused planted fake evidence at the crime scene to mislead the investigation.,228
+912,The document produced by the accused in court was found to be fabricated and false.,228
+913,The accused bribed someone to plant drugs at my home to fabricate evidence against me.,228
+914,A false entry was found in the company records created by the accused to fabricate evidence.,228
+915,The accused manufactured fake documents and produced them as genuine evidence in court.,228
+916,The accused deliberately gave false evidence in court with clear intention to mislead the judge.,229
+917,The witness was paid to give false testimony in court about events on the night of the crime.,229
+918,The accused gave false evidence in court proceedings about the property boundary dispute.,229
+919,A witness was found to have deliberately given false testimony in the criminal court proceedings.,229
+920,The accused bribed witnesses to give false evidence in the court case against me.,229
+921,The accused gave false evidence with intent to have an innocent person convicted of a capital offence.,230
+922,The witness gave false testimony knowing it would lead to the death penalty for an innocent man.,230
+923,The accused fabricated evidence with the clear intent to send an innocent person to the gallows.,230
+924,The witness falsely testified in a murder case intending to cause wrongful conviction.,230
+925,The accused gave false evidence in a rape case to cause wrongful conviction of an innocent person.,230
+926,The accused gave false evidence intending to cause wrongful conviction for a serious offence.,231
+927,The witness gave false testimony knowing it would lead to long imprisonment of an innocent man.,231
+928,The accused fabricated evidence in a kidnapping case to frame an innocent person.,231
+929,The witness falsely testified in a robbery case to cause wrongful conviction.,231
+930,The accused gave false evidence to cause wrongful conviction in a serious criminal case.,231
+931,The accused knowingly used a fabricated document as genuine evidence in the court case.,232
+932,The accused presented evidence he knew to be false and fabricated in the property dispute.,232
+933,The accused used a forged letter as if it were genuine evidence in the court proceedings.,232
+934,The accused used a fake affidavit knowing it to be false as evidence in the civil suit.,232
+935,The accused produced a forged signature document as genuine evidence before the court.,232
+936,The accused issued a false medical certificate to help the accused person avoid punishment.,233
+937,The doctor issued a false death certificate which was used as evidence in court.,233
+938,The accused issued a false character certificate knowing it was false but admissible as evidence.,233
+939,The official issued a false certificate of residence knowing it to be false for use in court.,233
+940,The accused signed a false fitness certificate that was submitted as evidence in the hearing.,233
+941,The accused used a false medical certificate knowing it was incorrect to get the patient acquitted.,234
+942,The accused presented a forged certificate as genuine evidence in the judicial proceedings.,234
+943,The accused used a false school leaving certificate knowing it was forged in the court case.,234
+944,The accused produced a counterfeit government certificate he knew was false as evidence.,234
+945,The accused submitted a false certificate of caste knowing it to be false to get an exemption.,234
+946,The accused made a false declaration before the magistrate in a case where declaration is admissible.,235
+947,The accused made a false statement in an affidavit knowing the affidavit is admissible as evidence.,235
+948,The accused made a false declaration in a notarised document that can be received as evidence.,235
+949,The accused swore falsely in a statutory declaration that is legally receivable as evidence.,235
+950,The accused made a false statement in a statutory declaration knowing it could be used as evidence.,235
+951,The accused used a false declaration he knew to be false in court proceedings.,236
+952,The accused produced a statutory declaration he knew to be false in the judicial proceeding.,236
+953,The accused used a false affidavit knowing it contained false information as evidence.,236
+954,The accused submitted a false notarised declaration knowing it to be false in the proceedings.,236
+955,The accused used a sworn statement he knew was false in proceedings before a public servant.,236
+956,The doctor issued a false medical certificate knowing it contained incorrect information.,237
+957,The government official issued a false certificate of residence with intent to aid the accused.,237
+958,The accused officer issued a false certificate knowing it was incorrect and admissible as evidence.,237
+959,The licensing authority issued a false certificate knowing it to be incorrect and legally admissible.,237
+960,The accused signed a false fitness certificate for a vehicle knowing it was incorrect.,237
+961,The accused knew the killer and helped him escape by removing all incriminating evidence.,238
+962,The accused concealed a murder weapon to help the actual killer escape from police.,238
+963,The accused helped the culprit destroy all evidence connecting him to the crime.,238
+964,The accused removed blood stains and destroyed evidence to help the criminal escape.,238
+965,The accused concealed the victim's body to prevent detection of the offence committed by his friend.,238
+966,The accused gave false information to police about the robbers who had committed the crime.,239
+967,The accused misled police by giving false information about where the stolen property was kept.,239
+968,The accused gave police false information about the suspect in a murder case.,239
+969,The accused gave completely fabricated information to the investigators to mislead the case.,239
+970,The accused gave false information to police about the time and place of the incident.,239
+971,The accused filed a completely frivolous and vexatious case against me to harass me.,240
+972,The accused grossly abused the legal process by filing multiple frivolous cases against me.,240
+973,The accused filed a baseless civil suit against me knowing he had no legal case at all.,240
+974,The accused obtained a false order by misrepresenting facts to the court in a frivolous case.,240
+975,The accused used the legal process to harass me by filing patently false claims.,240
+976,The accused fraudulently claimed ownership of my property to prevent its seizure by authorities.,241
+977,The accused made a false claim to seized assets to prevent the government from confiscating them.,241
+978,The accused fraudulently presented false documents to claim property that was being forfeited.,241
+979,The accused created a false ownership claim over seized property to prevent its forfeiture.,241
+980,The accused pretended to be the owner of attached property to frustrate the legal process.,241
+981,The accused allowed a false decree to be passed against him to defraud the legitimate creditor.,242
+982,The accused permitted a fake judgment to be executed against him to hide his real assets.,242
+983,The accused allowed a false court order to be passed against him to defeat his creditors.,242
+984,The accused cooperated in a fraudulent decree against himself to conceal assets from authorities.,242
+985,The accused allowed a false judgment debt to be created against him to protect his real assets.,242
+986,The accused filed a case in court claiming money from me knowing he had no lawful claim.,243
+987,The accused instituted a false criminal proceeding against me with no just cause.,243
+988,The accused filed a civil suit for property knowing he had no right or title to it.,243
+989,The accused made a fraudulent claim in court for money he knew was not legally owed to him.,243
+990,The accused instituted false proceedings against me knowing fully well the claim was unjust.,243
+991,The accused fraudulently obtained a court decree for property to which he had no right.,244
+992,The accused fraudulently got a court judgment for money that was not legally owed to him.,244
+993,The accused obtained a false decree from court by submitting forged documents.,244
+994,The accused obtained a fraudulent court order by misrepresenting facts to the judge.,244
+995,The accused got a court judgment by fraud to take property that rightfully belongs to me.,244
+996,The accused filed a false police complaint against me with intent to cause me injury.,245
+997,The accused instituted a false criminal proceeding against me knowing there was no basis.,245
+998,The accused filed a false FIR against me knowing that the allegations were entirely untrue.,245
+999,The accused falsely accused me of a crime before the police with intent to harm me.,245
+1000,The accused made a false complaint to the authorities knowing the charge had no basis.,245
+1001,The accused knowingly hid the murderer in his house after the crime was committed.,246
+1002,The accused helped the thief escape from police by hiding him in his vehicle.,246
+1003,The accused concealed a wanted criminal in his warehouse knowing he was being sought by police.,246
+1004,The accused gave shelter to a fugitive knowing he had escaped from police custody.,246
+1005,The accused harboured a person he knew had committed a serious offence.,246
+1006,The accused took money to conceal the offence committed by his associate.,247
+1007,The accused accepted a bribe to not report a crime he had witnessed.,247
+1008,The accused took money to screen his friend from legal punishment after a serious offence.,247
+1009,The accused received payment for concealing information about a crime from authorities.,247
+1010,The accused accepted money in exchange for not proceeding against the criminal.,247
+1011,The accused offered money to a witness to ensure the criminal escaped from punishment.,248
+1012,The accused paid someone to screen a criminal from legal punishment.,248
+1013,The accused gave money to persons to help his associate escape from punishment.,248
+1014,The accused paid others to conceal information about a crime to help the offender.,248
+1015,The accused gave money to ensure no legal action was taken against the actual offender.,248
+1016,The accused pretended he would recover my stolen goods but took money and did nothing.,249
+1017,The accused took money under the pretext of recovering stolen property without reporting the crime.,249
+1018,The accused accepted payment pretending he could recover stolen items without telling police.,249
+1019,The accused took money claiming he could help recover stolen goods but never reported the crime.,249
+1020,The accused took payment promising to recover stolen goods but concealed the offence from police.,249
+1021,The accused helped the escaped convict hide from police by sheltering him in his house.,250
+1022,The accused assisted a person who had escaped from jail by providing him shelter and food.,250
+1023,The accused hid a fugitive knowing that person had escaped from legal custody.,250
+1024,The accused gave shelter and assistance to a person who had escaped from police custody.,250
+1025,The accused harboured a person who had escaped from prison knowing about his escape.,250
+1026,The accused is known to regularly shelter members of a dacoity gang in his property.,251
+1027,The accused conceals gang members knowing they have committed dacoity.,251
+1028,The accused regularly harbours robbers and dacoits in his house providing them shelter.,251
+1029,The accused provides safe haven to a criminal gang that commits robbery in the region.,251
+1030,The accused knowingly shelters and conceals members of a notorious robbery gang.,251
+1031,The accused took money claiming he could help recover stolen jewellery without police action.,252
+1032,The accused accepted payment pretending he could help recover stolen property without reporting.,252
+1033,The accused took money under pretence of helping recover stolen goods without legal action.,252
+1034,The accused accepted payment to help recover stolen items while concealing the theft from police.,252
+1035,The accused received money claiming he could recover stolen property without any legal process.,252
+1036,The accused filed a false suit claiming property from me with fraudulent intention.,253
+1037,The accused made a dishonest claim in court for money he knew was not owed to him.,253
+1038,The accused filed a fraudulent claim in court knowing his claim had no legal basis.,253
+1039,The accused dishonestly claimed ownership of property in court knowing he had no such right.,253
+1040,The accused made a false claim in court against me with intent to cause financial harm.,253
+1041,The accused obtained a court order by bribing a court official to issue a false process.,254
+1042,The accused used fraud to obtain a court judgment that was not legally justified.,254
+1043,The accused obtained a court process by personating another person before the court.,254
+1044,The accused got a fraudulent court order issued by deceiving the court officer.,254
+1045,The accused obtained a court decree through fraudulent means and corrupt practices.,254
+1046,The accused impersonated me in court and made admissions that caused me legal harm.,255
+1047,The accused falsely pretended to be another person to cause a court order to be passed.,255
+1048,The accused personated another person and confessed judgment in a case against that person.,255
+1049,The accused became bail for a person by using a false identity in court proceedings.,255
+1050,The accused impersonated another and did acts in a court case causing harm to that person.,255
+1051,The accused made a counterfeit seal of the court to stamp false documents.,256
+1052,The accused copied a court seal to use on fabricated court documents.,256
+1053,The accused made a copy of the authentication mark used on court documents.,256
+1054,The accused reproduced a court seal to create false court records.,256
+1055,The accused counterfeited the official mark used to authenticate court documents.,256
+1056,The accused transferred all assets to his wife to prevent seizure under a court order.,257
+1057,The accused secretly moved his property to prevent it from being forfeited.,257
+1058,The accused hid his assets to prevent them being taken as a court-ordered forfeiture.,257
+1059,The accused transferred money to associates to prevent its seizure under a court sentence.,257
+1060,The accused disposed of all property to prevent its seizure under the court's punishment order.,257
+1061,The accused received property knowing it was transferred to avoid seizure under a court order.,258
+1062,The accused retained money knowing it had been moved to avoid forfeiture under a court sentence.,258
+1063,The accused held property transferred to him to prevent its seizure by government authorities.,258
+1064,The accused received assets knowing they were concealed from the court to prevent forfeiture.,258
+1065,The accused kept property he knew had been transferred to avoid a court-ordered seizure.,258
+1066,The accused interrupted the magistrate during proceedings with abusive language.,259
+1067,The accused insulted the presiding judge in open court during proceedings.,259
+1068,The accused deliberately disrupted the court hearing by making noise.,259
+1069,The accused used offensive language toward a judicial officer during a hearing.,259
+1070,The accused persistently interrupted and insulted the public servant conducting judicial proceedings.,259
+1071,The accused threatened a witness to prevent her from giving evidence in court.,260
+1072,The accused threatened a key witness to make him change his testimony.,260
+1073,The accused threatened a witness saying he would harm him if he testified.,260
+1074,The accused threatened to harm a witness and her family if she gave evidence.,260
+1075,The accused sent threatening messages to a witness to deter him from appearing in court.,260
+1076,The accused threatened a witness with physical harm to make him give false evidence.,261
+1077,The accused threatened to destroy the witness's property if he did not give false testimony.,261
+1078,The accused threatened damage to the witness's reputation to induce false evidence.,261
+1079,The accused threatened to harm the witness's family unless he testified falsely in court.,261
+1080,The accused threatened the witness with injury to make him not give evidence in court.,261
+1081,The convicted person who was sent outside India has returned to India unlawfully.,262
+1082,The person who was transported as part of his sentence has illegally returned to India.,262
+1083,The convicted person returned from transportation without any lawful authority.,262
+1084,The accused who was legally transported outside India returned without government permission.,262
+1085,The person transported abroad as part of legal punishment has returned illegally to India.,262
+1086,The convict who had been granted conditional remission violated the condition of remission.,263
+1087,The accused accepted conditional remission but then did the act he was required not to do.,263
+1088,The convicted person accepted remission of punishment but violated the conditions imposed.,263
+1089,The person given conditional release committed the act that violated the conditions of his release.,263
+1090,The convict violated the terms of his conditional remission and should face original punishment.,263
+1091,The police officer intentionally omitted to arrest a person he was legally bound to arrest.,264
+1092,The public servant deliberately did not apprehend the wanted criminal despite being required to.,264
+1093,The officer who had the duty and power to arrest the person deliberately omitted to do so.,264
+1094,The constable deliberately did not arrest the suspect he was legally empowered to apprehend.,264
+1095,The officer with power of arrest deliberately chose not to arrest a person he was supposed to.,264
+1096,The accused resisted arrest and tried to escape from police officers.,265
+1097,The accused physically obstructed police from taking him into lawful custody.,265
+1098,The accused fought with police officers who were trying to make a lawful arrest.,265
+1099,The accused offered violent resistance to lawful apprehension by police.,265
+1100,The accused unlawfully attempted to rescue himself from police custody after arrest.,265
+1101,The accused blocked the road to prevent an auction of seized property from taking place.,266
+1102,The accused interfered with a property auction being held under court orders.,266
+1103,The accused came with a group and disrupted the auction of attached property.,266
+1104,The accused created obstructions to prevent the lawful auction of seized goods.,266
+1105,The accused threatened bidders to prevent them from participating in the court-ordered auction.,266
+1106,The accused bid at the auction knowing the actual buyer was legally not allowed to purchase.,267
+1107,The accused bid for property at a court auction in the name of a disqualified person.,267
+1108,The accused participated in a government property auction on behalf of a legally ineligible party.,267
+1109,The accused made bids at the official auction on behalf of someone legally prohibited from buying.,267
+1110,The accused bought property at the public auction for a person legally barred from doing so.,267
+1111,The accused obstructed a government health inspector from conducting his official inspection.,268
+1112,The accused blocked a revenue official from discharging his official surveying duties.,268
+1113,The accused obstructed a food inspector from collecting food samples in his restaurant.,268
+1114,The accused prevented a labour inspector from entering the factory to check working conditions.,268
+1115,The accused obstructed municipal officers from demolishing an illegal structure as ordered.,268
+1116,The accused carelessly stored poisonous pesticides in a place accessible to children.,269
+1117,The accused negligently transported toxic chemicals endangering health of people on the road.,269
+1118,The accused carelessly handled poisonous substances near a residential area endangering lives.,269
+1119,The accused negligently stored poisonous materials without adequate safety precautions.,269
+1120,The accused was negligent with toxic waste disposal endangering the health of nearby residents.,269
+1121,The factory was releasing toxic fumes making the air in the neighbourhood harmful to breathe.,270
+1122,The accused burned chemicals in a residential area making the atmosphere noxious to health.,270
+1123,The accused's operation released poisonous gases making the air in the area unbreathable.,270
+1124,The accused's factory released fumes that caused respiratory problems for nearby residents.,270
+1125,The accused deliberately burnt prohibited materials fouling the atmosphere in the area.,270
+1126,The factory owner was found dumping chemical waste into the public water supply reservoir.,271
+1127,The accused illegally discharged sewage into the public water source making it unfit for use.,271
+1128,The accused was found polluting the public well used by the entire village.,271
+1129,The accused deliberately fouled the water from the public spring by dumping waste.,271
+1130,The factory released toxic waste into the public water reservoir used by residents.,271
+1131,The accused ran a lottery business from his house causing disturbance to neighbours.,272
+1132,The accused organised illegal gaming activities in the neighbourhood causing public nuisance.,272
+1133,The accused ran a business that caused constant noise and disturbance to the neighbourhood.,272
+1134,The accused's business activities in the residential area caused common nuisance to all.,272
+1135,The accused ran an illegal gambling den causing constant disturbance to the locality.,272
+1136,The accused sold food items he knew were adulterated making them unfit for consumption.,273
+1137,The accused mixed harmful substances in the food he was selling to increase its weight.,273
+1138,The accused mixed water in milk repeatedly making it unfit for human consumption.,273
+1139,The accused knowingly sold spoilt food items that were dangerous to health.,273
+1140,The accused adulterated cooking oil making it injurious to the health of consumers.,273
+1141,The accused sold drugs he knew were adulterated or counterfeit endangering lives of patients.,274
+1142,The accused dispensed medicines he knew were substandard and harmful to patients.,274
+1143,The accused sold fake medicines knowing they were not what they appeared to be.,274
+1144,The accused sold counterfeit drugs knowing they were harmful and unfit for consumption.,274
+1145,The accused sold adulterated pharmaceutical products knowing they were dangerous to health.,274
+1146,The accused was selling adulterated drugs at his pharmacy knowingly.,275
+1147,The accused sold medicines he knew were counterfeit and did not meet drug standards.,275
+1148,The accused dispensed medicines at his pharmacy knowing they were not genuine.,275
+1149,The accused sold pharmaceutical products knowing they were substandard and dangerous.,275
+1150,The accused sold counterfeit drugs from his medical store knowing they were fake.,275
+1151,The accused was caught selling prohibited obscene books and magazines to minors.,276
+1152,The accused was selling pornographic material from his bookshop.,276
+1153,The accused sold obscene publications to members of the public from his shop.,276
+1154,The accused was distributing obscene material in the neighbourhood.,276
+1155,The accused was found selling obscene and indecent publications from his stall.,276
+1156,The accused was running an obscene and indecent show in a public place.,277
+1157,The accused exhibited obscene objects in a manner that could be seen by the public.,277
+1158,The accused was found conducting an indecent and obscene performance in public.,277
+1159,The accused organised a show involving obscene content that disturbed the public.,277
+1160,The accused exhibited obscene objects in a public exhibition attracting public complaint.,277
+1161,The accused committed a nuisance by blocking a public drain causing flooding.,278
+1162,The accused committed a public nuisance by leaving dead animals on a public road.,278
+1163,The accused's factory caused a public nuisance by releasing effluents into the street.,278
+1164,The accused committed a nuisance causing obstruction and injury to people in the locality.,278
+1165,The accused's activities created a common nuisance causing injury to the public.,278
+1166,The truck driver was speeding recklessly on the busy highway endangering all road users.,279
+1167,The accused was riding his motorcycle recklessly through the busy market endangering pedestrians.,279
+1168,The taxi driver was driving dangerously in the crowded residential area putting lives at risk.,279
+1169,The bus driver drove rashly through the market causing danger to pedestrians and vehicles.,279
+1170,The accused drove his vehicle in a clearly rash manner endangering lives on the public road.,279
+1171,The boat captain was navigating the passenger vessel recklessly in busy waterways.,280
+1172,The accused navigated the ferry boat negligently putting passengers' lives at serious risk.,280
+1173,The vessel captain drove the boat carelessly in a manner likely to endanger lives.,280
+1174,The accused navigated the fishing trawler in a reckless manner endangering other vessels.,280
+1175,The boat driver operated the vessel negligently in waters with heavy traffic endangering lives.,280
+1176,The accused displayed a false navigation light on the coast misleading approaching ships.,281
+1177,The accused erected false buoys that misled ships approaching the harbour.,281
+1178,The accused displayed false navigation markers that misled vessels in the waterway.,281
+1179,The accused installed false lights on the coast that caused a ship to be misled.,281
+1180,The accused placed false markers in the navigation channel that misled approaching vessels.,281
+1181,The boat operator knowingly overloaded the passenger vessel putting passengers in danger.,282
+1182,The accused loaded the ferry boat beyond capacity knowing it was unsafe for passengers.,282
+1183,The boat owner allowed the vessel to operate in a dangerously overloaded condition.,282
+1184,The accused carried passengers in a vessel he knew was unsafe and about to sink.,282
+1185,The owner negligently allowed passengers to be transported in an unseaworthy vessel.,282
+1186,The accused left a deep uncovered pit in the middle of the road creating a hazard.,283
+1187,The accused stored heavy materials on a public road creating danger to pedestrians.,283
+1188,The accused left his vehicle on the road in a way that obstructed traffic and caused danger.,283
+1189,The accused dug a trench on a public path and left it unmarked creating danger to the public.,283
+1190,The accused abandoned construction materials on the road creating obstruction and danger.,283
+1191,The accused opened a shop that was creating constant noise and disturbance to residents.,284
+1192,The accused ran an operation causing vibration and noise which disturbed the neighbourhood.,284
+1193,The accused's workshop created noise and vibrations causing disturbance to the locality.,284
+1194,The accused ran a business that caused constant disturbance to people in the neighbourhood.,284
+1195,The accused opened a disco that played loud music causing disturbance to the entire area.,284
+1196,The accused was selling prohibited liquor without any licence to the public.,285
+1197,The accused was running an illegal liquor den in his house.,285
+1198,The accused was manufacturing and selling illicit liquor in the area.,285
+1199,The accused sold prohibited alcohol to minors in his shop.,285
+1200,The accused was found selling counterfeit branded liquor at his outlet.,285
+1201,The accused was running an illegal gambling den in his house.,286
+1202,The accused was operating an unlicensed gambling establishment in the area.,286
+1203,The accused was found running a gambling operation attracting a large number of people.,286
+1204,The accused was running card games for money in his house as a regular business.,286
+1205,The accused was operating an illegal gaming establishment in the neighbourhood.,286
+1206,The accused was seen in a public place in a state of intoxication causing disturbance.,287
+1207,The accused was found drunk and disorderly in a public place creating nuisance.,287
+1208,The accused was in a state of intoxication in a public street causing annoyance to passersby.,287
+1209,The accused was found publicly intoxicated and was causing annoyance to the public.,287
+1210,The accused appeared in an intoxicated state in a public place and was behaving disorderly.,287
+1211,The accused negligently handled his firearm causing accidental discharge injuring bystanders.,288
+1212,The accused carelessly left his loaded gun accessible to children resulting in an accident.,288
+1213,The accused negligently used a firearm in a public place endangering lives.,288
+1214,The accused was negligent with his weapon causing injury to an innocent person.,288
+1215,The accused carelessly handled explosive material causing injury to a bystander.,288
+1216,The accused negligently kept a ferocious dog without a leash which bit and injured passersby.,289
+1217,The accused's dog which he kept negligently attacked and injured a child.,289
+1218,The accused negligently kept wild animals that escaped and injured people.,289
+1219,The accused kept a vicious animal negligently and it attacked my child.,289
+1220,The accused kept dangerous animals without proper precautions causing injury to my son.,289
+1221,The accused was found urinating in a public place causing indecency to passersby.,290
+1222,The accused was found performing an obscene act in a public park causing annoyance to visitors.,290
+1223,The accused committed an indecent act in a public place causing disgust to the public.,290
+1224,The accused was seen performing a grossly indecent act in a public area.,290
+1225,The accused committed an obscene act in public to the annoyance of others present.,290
+1226,The accused was running a slaughterhouse in a residential area causing public nuisance.,291
+1227,The accused was conducting activities in his premise causing a nuisance to the neighbourhood.,291
+1228,The accused ran a tannery near homes causing public nuisance through smell and pollution.,291
+1229,The accused continued to run his business causing nuisance to the area after court order to stop.,291
+1230,The accused was running an activity causing a continuing public nuisance to the locality.,291
+1231,The accused was selling obscene books pamphlets and pictures from his shop.,292
+1232,The accused was distributing obscene material that was offensive and harmful to the public.,292
+1233,The accused was found selling obscene printed material from a roadside stall.,292
+1234,The accused was selling obscene pictures and books that depicted explicit content.,292
+1235,The accused was distributing obscene publications to members of the public.,292
+1236,The accused sold obscene books and pictures specifically to young persons.,293
+1237,The accused was caught selling pornographic material to minors below 18 years of age.,293
+1238,The accused was distributing obscene content specifically targeting young students.,293
+1239,The accused was found selling obscene material to teenagers near the school.,293
+1240,The accused was found distributing indecent material to minors in the school area.,293
+1241,The accused sang obscene and indecent songs in a public place to the annoyance of others.,294
+1242,The accused uttered obscene words loudly in a public street causing annoyance to people.,294
+1243,The accused was found making obscene sounds in a public park causing annoyance.,294
+1244,The accused used obscene language in a public place causing annoyance to passersby.,294
+1245,The accused performed an obscene act in public causing annoyance to those present.,294
+1246,The accused negligently handled his factory's toxic waste endangering neighbours.,295
+1247,The accused negligently left dangerous chemicals accessible to the public.,295
+1248,The accused negligently stored toxic materials without any safety precautions.,295
+1249,The accused's negligent act with dangerous substances endangered many lives.,295
+1250,The accused did a rash act with hazardous material knowing it was likely to endanger life.,295
+1251,The accused unlawfully possessed a firearm that he used to commit the offence.,296
+1252,The accused was found in possession of an unlicensed firearm in a public place.,296
+1253,The accused carried an unlicensed weapon in a public place causing fear.,296
+1254,The accused was found with an unlicensed pistol in his possession.,296
+1255,The accused possessed an illegal firearm without any valid licence or permission.,296
+1256,The accused was found in possession of a knife in a public place without lawful excuse.,297
+1257,The accused carried a sharp weapon in public without any lawful justification.,297
+1258,The accused was found carrying a dangerous weapon in a public place.,297
+1259,The accused was found with a prohibited knife in a public place.,297
+1260,The accused carried a deadly weapon in a public area without any lawful excuse.,297
+1261,The accused deliberately wounded the religious feelings of our community by his acts.,298
+1262,The accused made deliberate gestures intending to insult our religious beliefs.,298
+1263,The accused uttered words intending to insult the religion of our community.,298
+1264,The accused committed an act with clear intention to insult and hurt religious sentiments.,298
+1265,The accused deliberately wounded religious feelings by making insulting gestures at our place of worship.,298
+1266,The accused trespassed into our place of worship with intent to insult our religion.,299
+1267,The accused entered the sacred temple premises with the intention of dishonouring our religion.,299
+1268,The accused trespassed into the mosque with deliberate intent to dishonour our faith.,299
+1269,The accused entered our church premises with intent to insult our religious practices.,299
+1270,The accused trespassed into our Gurudwara with clear intention of dishonouring our religion.,299
+1271,The accused destroyed the sacred object we use in our religious worship.,300
+1272,The accused deliberately damaged a religious object that we consider sacred.,300
+1273,The accused defiled the sacred objects in our place of worship.,300
+1274,The accused desecrated an object that our community holds sacred.,300
+1275,The accused destroyed an object of worship that has sacred significance to our community.,300
+1276,The accused disturbed a religious assembly of our community with willful intention.,301
+1277,The accused intruded upon our religious gathering with intent to disturb our worship.,301
+1278,The accused disturbed a lawful religious assembly by making loud noise and disrupting it.,301
+1279,The accused wilfully interfered with our congregation during religious ceremonies.,301
+1280,The accused disrupted a peaceful religious assembly with deliberate intent to cause disturbance.,301
+1281,The accused trespassed into the burial ground and desecrated graves of our community.,302
+1282,The accused disturbed the dead body during the funeral of our community member.,302
+1283,The accused insulted the remains of deceased persons in the cremation ground.,302
+1284,The accused desecrated the burial site of my family members.,302
+1285,The accused disturbed and insulted our religious funeral ceremony by trespassing into the grounds.,302
+1286,My motorcycle was stolen from the parking area outside my apartment building last night.,303
+1287,Someone stole my mobile phone from my jacket pocket while I was standing at the bus stop.,303
+1288,My bicycle went missing from the cycle stand near the office where I had parked it.,303
+1289,A thief stole my wallet containing cash and cards from my bag while I was shopping.,303
+1290,My laptop was stolen from the office when I stepped out for a few minutes.,303
+1291,A man on a bike snatched my handbag from my shoulder while I was walking on the road.,304
+1292,Two men on a motorcycle snatched my gold chain from my neck near the market.,304
+1293,A person running past grabbed my phone from my hand and ran away quickly.,304
+1294,The accused snatched my bag containing ten thousand rupees from my hand at the bus stop.,304
+1295,A motorcyclist drove close and snatched my wallet from my back pocket in the crowded bazaar.,304
+1296,My house was broken into and my jewellery and cash were stolen while I was away.,305
+1297,Thieves broke into my flat and stole electronics jewellery and fifty thousand rupees.,305
+1298,The thieves entered my house by breaking the lock and stole everything valuable.,305
+1299,My shop was broken into at night and thieves stole goods worth two lakh rupees.,305
+1300,Someone picked the lock of my house and stole all my wife's gold jewellery.,305
+1301,My servant stole twenty thousand rupees from the drawer in my office.,306
+1302,A trusted employee stole electronic equipment from the company warehouse over several weeks.,306
+1303,The domestic worker stole my laptop and jewellery while I was at work.,306
+1304,An employee who had access to the store room was found stealing merchandise repeatedly.,306
+1305,My office boy stole the petty cash box containing fifteen thousand rupees.,306
+1306,The thieves had weapons ready before breaking into my house to counter any resistance.,307
+1307,The accused came armed and made preparations for violence before committing theft.,307
+1308,The thief had a knife ready while stealing from my house in case of encountering anyone.,307
+1309,The accused had made preparations to hurt or restrain anyone while committing the theft.,307
+1310,The accused had his associates waiting armed outside as he committed theft in the house.,307
+1311,The accused demanded fifty thousand rupees threatening to harm my family.,308
+1312,A group of men came to my shop demanding monthly protection money under threat of violence.,308
+1313,The accused sent messages demanding money or he would leak my private photos.,308
+1314,My business partner threatened to file false cases against me if I did not pay him money.,308
+1315,The accused threatened to hurt my children if I did not pay him two lakh rupees.,308
+1316,The accused threatened me with harm to my reputation to put me in fear for extortion.,309
+1317,The accused put me in fear of bodily injury to attempt to extort money from me.,309
+1318,The accused threatened to publish embarrassing content about me to put me in fear.,309
+1319,The accused attempted to extort money by threatening to harm my property.,309
+1320,The accused threatened to harm my family members in an attempt to extort money from me.,309
+1321,The accused threatened to kill me unless I paid him five lakh rupees immediately.,310
+1322,The accused threatened to cause grievous hurt to my father unless we paid ransom.,310
+1323,The accused committed extortion by threatening to murder my son if I did not pay.,310
+1324,The accused threatened to kidnap my daughter and cause grievous hurt for extortion.,310
+1325,The accused demanded money threatening death to my family if not paid.,310
+1326,The accused threatened to kill me and extort money and would not stop demanding.,311
+1327,The accused put me in fear of death by pointing a gun at me and demanded money.,311
+1328,The accused threatened to cause grievous hurt while trying to extort money.,311
+1329,The accused attempted to extort money by making death threats to me and my family.,311
+1330,The accused tried to extort money under threat of causing grievous hurt to my brother.,311
+1331,The accused threatened to falsely accuse me of a murder if I did not give him money.,312
+1332,The accused threatened to falsely accuse me of a serious crime unless I paid extortion.,312
+1333,The accused demanded money threatening to make false accusations of a capital offence.,312
+1334,The accused threatened to fabricate evidence of a serious crime against me for extortion.,312
+1335,The accused demanded payment threatening to accuse me of an offence punishable with death.,312
+1336,The accused threatened to falsely accuse me of robbery to compel me to pay him money.,313
+1337,The accused tried to extort money threatening to make false accusation of a serious offence.,313
+1338,The accused threatened false allegations of a capital offence to put me in fear for extortion.,313
+1339,The accused attempted extortion threatening to frame me for a serious criminal offence.,313
+1340,The accused put me in fear of serious false accusation to extract money.,313
+1341,Two men threatened me with a knife and snatched my bag containing valuables on the road.,314
+1342,Armed men stopped my car on a lonely road and robbed me at gunpoint.,314
+1343,The accused snatched my phone by showing a knife and threatening to hurt me.,314
+1344,Men held my wife at knifepoint and took all her jewellery and cash.,314
+1345,The accused robbed me of my salary cash by pinning me against the wall and threatening me.,314
+1346,The accused attempted to rob me at the road but I managed to raise an alarm and escape.,315
+1347,The accused tried to rob me but was interrupted before completing the robbery.,315
+1348,The accused made an attempt to snatch my valuables using force but was caught.,315
+1349,The accused attempted armed robbery on my shop but fled when the alarm was triggered.,315
+1350,The accused tried to rob my vehicle at gunpoint but was overpowered by bystanders.,315
+1351,The accused hit me during a robbery causing me serious injury.,316
+1352,The accused broke my arm while committing the robbery of my shop.,316
+1353,During the robbery the accused voluntarily caused me grievous hurt.,316
+1354,The accused stabbed me while committing the robbery at my residence.,316
+1355,The accused struck me on the head causing grievous hurt while committing robbery.,316
+1356,A gang of six men attacked our village and looted our houses at night.,317
+1357,Five armed men came to my shop and robbed all the cash and jewellery at gunpoint.,317
+1358,A gang of eight men attacked us on the highway and looted the entire vehicle.,317
+1359,Six or more persons together attacked my warehouse and looted goods worth five lakh rupees.,317
+1360,A group of armed men robbed the jewellery store taking ornaments worth twenty lakh rupees.,317
+1361,The dacoits who looted my shop also shot and killed my watchman during the dacoity.,318
+1362,A member of the dacoity gang committed murder during commission of the dacoity.,318
+1363,One of the dacoits killed my brother while the gang was committing dacoity at my house.,318
+1364,During dacoity at our home one of the gang members stabbed and killed my father.,318
+1365,A gang member shot and killed a person while the gang was committing dacoity.,318
+1366,A gang is openly gathering near our colony every night planning criminal operations.,319
+1367,The accused along with four others were found assembled for the purpose of committing dacoity.,319
+1368,The accused is a known member of a gang of five persons who commit robbery and dacoity.,319
+1369,The accused was found with four other members of a dacoity gang near the targeted area.,319
+1370,The accused is part of a group of five persons who regularly commit armed dacoity.,319
+1371,The dacoits killed my husband while conducting dacoity at our business premises.,320
+1372,A dacoity gang killed my father when he tried to resist during commission of dacoity.,320
+1373,One of the five dacoits shot and killed my brother during dacoity at our shop.,320
+1374,During dacoity at our house a gang member caused the death of my uncle.,320
+1375,The dacoity gang murdered my employer when he tried to call for help.,320
+1376,The accused is a member of a gang of five persons who regularly commit dacoity.,321
+1377,The accused was found gathered with four others who are known to commit dacoity.,321
+1378,The accused is one of seven persons regularly gathered for the purpose of committing dacoity.,321
+1379,The accused is a known member of a large dacoity gang operating in this area.,321
+1380,The accused was caught as part of a gang assembling to plan and commit dacoity.,321
+1381,The accused and gang members killed my father while committing dacoity at our home.,322
+1382,During dacoity committed by the accused and his gang members my brother was killed.,322
+1383,The accused's gang killed my uncle when he resisted during commission of dacoity.,322
+1384,The accused and his gang killed our neighbour when committing dacoity at his house.,322
+1385,During dacoity the accused's gang members killed the owner of the shop.,322
+1386,The accused took our family's gold coins without any consent while visiting our house.,323
+1387,The accused found and dishonestly pocketed money that belonged to my employer.,323
+1388,The accused misappropriated company petty cash that was in his temporary possession.,323
+1389,The accused kept for himself a watch he found on the road knowing whose it was.,323
+1390,The accused dishonestly kept money he found that belonged to another person.,323
+1391,The accused took the gold ring from my deceased father's finger before others noticed.,324
+1392,The accused misappropriated jewellery from the possession of a recently deceased person.,324
+1393,The accused took the deceased person's belongings before proper estate administration.,324
+1394,The accused kept money he found in the belongings of a deceased person dishonestly.,324
+1395,The accused took valuable items from the deceased's estate before proper legal procedures.,324
+1396,My business partner misappropriated company funds worth five lakh rupees entrusted to him.,325
+1397,The accused who managed my accounts transferred my money to his personal account dishonestly.,325
+1398,My property was entrusted to the accused for safekeeping and he sold it without my permission.,325
+1399,The society secretary collected maintenance money and misused it for personal benefit.,325
+1400,The accused who was given custody of donation funds diverted them for personal benefit.,325
+1401,The accused who worked as a delivery carrier stole goods from packages entrusted to him.,326
+1402,The warehouse keeper stole goods from the warehouse that were entrusted to him for safekeeping.,326
+1403,The carrier misappropriated goods that were in his possession for safe transport.,326
+1404,The wharfinger stole items from cargo entrusted to him for storage.,326
+1405,The accused transport operator stole goods from shipments entrusted to his care.,326
+1406,My trusted household servant misappropriated lakhs of rupees from my company accounts.,327
+1407,The office clerk stole money from petty cash entrusted to him by the employer.,327
+1408,The servant misappropriated expensive jewellery entrusted to him for cleaning.,327
+1409,My employee who was trusted with company accounts transferred money to his own account.,327
+1410,The company's accountant stole funds that were under his control as an employee.,327
+1411,The bank manager misappropriated fixed deposit funds of elderly clients.,328
+1412,The accused public servant misappropriated government funds in his official capacity.,328
+1413,The broker misappropriated my investment funds that were entrusted to him.,328
+1414,The accused agent misappropriated lakhs of rupees of client funds under his management.,328
+1415,The accused bank official misappropriated large sums from customers' accounts under his custody.,328
+1416,A company cheated me by taking fifty thousand rupees as advance for a flat that does not exist.,329
+1417,The accused deceived me by selling me a fake gold chain claiming it was pure 22-karat gold.,329
+1418,An online seller took my payment for goods and then blocked me without delivering anything.,329
+1419,The accused misrepresented the property documents and cheated me of my life savings.,329
+1420,A broker deceived me into investing money promising high returns then disappeared with my funds.,329
+1421,The accused cheated me by pretending to be a bank officer and obtaining my account details.,330
+1422,The accused posed as a government official and cheated me of money.,330
+1423,The accused impersonated a tax officer and collected money fraudulently from me.,330
+1424,The accused cheated me by pretending to be my son in distress and took money from me.,330
+1425,The accused impersonated a judicial officer and took money from me fraudulently.,330
+1426,The accused cheated my elderly mother who was his client by misusing his position as her advisor.,331
+1427,The accused cheated his own client for whose benefit he was legally bound to act.,331
+1428,The accused cheated me in a matter where he was legally bound to protect my interests.,331
+1429,The accused cheated his customer by making him sign a document he was bound to protect.,331
+1430,The accused cheated his beneficiary taking advantage of his position as a legal trustee.,331
+1431,The accused cheated me into giving him my gold chain by showing a fake receipt.,332
+1432,The accused cheated me and dishonestly induced me to hand over my valuable documents.,332
+1433,The accused cheated me into signing a document transferring my property to him.,332
+1434,The accused cheated me and induced me to make a valuable security in his favour.,332
+1435,The accused deceived me and induced me to hand over a signed blank cheque to him.,332
+1436,The accused cheated me in a card game by using a marked deck to win my money.,333
+1437,The accused used a rigged gambling game to cheat me of fifty thousand rupees.,333
+1438,The accused cheated me in a crooked dice game at the casino.,333
+1439,The accused used a fixed gambling setup to cheat many victims of large amounts.,333
+1440,The accused ran a fraudulent gambling scheme to cheat victims out of their money.,333
+1441,The accused deliberately broke my car windshield causing damage worth twenty thousand rupees.,334
+1442,My shop shutters were damaged and glass was broken by the accused and his associates.,334
+1443,The accused set fire to my crops causing loss of nearly one lakh rupees worth of harvest.,334
+1444,My vehicle was deliberately damaged by the accused who scratched it all over.,334
+1445,The accused broke the windows of my house and damaged furniture worth fifty thousand rupees.,334
+1446,The accused trespassed into my farmland and refused to leave when asked to do so.,335
+1447,An unknown person entered my property without permission and threatened to stay.,335
+1448,The accused entered my home unlawfully and insulted and threatened me and my family.,335
+1449,A group of men trespassed into my premises and damaged equipment in the storage area.,335
+1450,The accused entered my shop without permission and threatened to disrupt my business.,335
+1451,The accused broke open the door of my house and entered threatening to kill me.,336
+1452,The accused entered my flat without permission through a window while I was sleeping.,336
+1453,An intruder was found inside my house who had entered through the back door.,336
+1454,The accused entered my house illegally and began abusing me and my family members.,336
+1455,Thieves broke into my dwelling house by breaking the lock on the back window.,336
+1456,The accused broke into my house planning to murder my father who had given evidence against him.,337
+1457,The accused trespassed into my house intending to commit murder.,337
+1458,The accused entered my residence with the intent to commit an offence punishable with death.,337
+1459,The accused broke into my house armed and intending to commit a capital offence.,337
+1460,The accused committed house trespass with the intent to commit murder.,337
+1461,The accused broke into my house planning to commit an offence punishable with life imprisonment.,338
+1462,The accused committed house trespass to commit a crime punishable with life imprisonment.,338
+1463,The accused entered my house illegally intending to commit rape which carries life imprisonment.,338
+1464,The accused broke into my house with intent to commit kidnapping for ransom.,338
+1465,The accused trespassed planning to commit a crime punishable with life imprisonment.,338
+1466,The accused broke into my house to steal valuable documents from my safe.,339
+1467,The accused committed house trespass to steal money from the household.,339
+1468,The accused entered my house illegally planning to commit theft.,339
+1469,The accused broke into my shop intending to steal goods kept there.,339
+1470,The accused trespassed into my house planning to steal and escape without being caught.,339
+1471,The accused broke into my house after arming himself ready to hurt anyone who resisted.,340
+1472,The accused committed house trespass having made preparation for assaulting the residents.,340
+1473,The accused entered my house with weapons ready to use if confronted.,340
+1474,The accused committed house trespass after preparing to assault and restrain me.,340
+1475,The accused broke into my house armed and ready to use force on anyone inside.,340
+1476,The accused broke into my house at night by cutting the window bars with a hacksaw.,341
+1477,The accused committed lurking house trespass by entering through the roof.,341
+1478,The accused broke into my house by removing the back wall bricks.,341
+1479,The accused picked the lock and entered my house committing house breaking.,341
+1480,The accused broke into the house by forcing the door with a crowbar.,341
+1481,The accused broke into my house at night to steal and made off with valuables.,342
+1482,The accused committed lurking house trespass to commit theft of my savings.,342
+1483,The accused broke into my house at night and stole all the cash from the safe.,342
+1484,The accused committed lurking house trespass to steal the company accounts.,342
+1485,The accused broke into my house stealthily at night to steal jewellery and cash.,342
+1486,The accused broke into my house at night armed and assaulted my watchman.,343
+1487,The accused committed lurking house trespass at night after preparing to hurt residents.,343
+1488,The accused broke into my house armed and ready to hurt anyone who confronted them.,343
+1489,The accused committed house breaking having weapons ready to assault inhabitants.,343
+1490,The accused broke into my house at night after having made preparation to hurt my family.,343
+1491,The accused broke into my house at night by breaking the lock of the back door.,344
+1492,The accused committed house breaking by removing window bars at night.,344
+1493,The accused broke into my flat at night by cutting through the iron grill.,344
+1494,The accused broke into my house at night by forcing open the rear door.,344
+1495,The accused committed house breaking at night when the family was asleep.,344
+1496,The accused was putting false marks on goods to make them appear to be of higher quality.,345
+1497,The accused put counterfeit brand marks on products to pass them off as branded goods.,345
+1498,The accused was marking his goods with false trade marks to deceive consumers.,345
+1499,The accused used counterfeit property marks on merchandise to pass it off as genuine.,345
+1500,The accused put false marks on inferior goods to pass them off as superior branded products.,345
+1501,The accused was selling goods bearing counterfeit property marks.,346
+1502,The accused sold goods with false and counterfeit marks on them.,346
+1503,The accused was found selling products bearing fake property marks.,346
+1504,The accused sold merchandise with counterfeit marks deceiving customers.,346
+1505,The accused sold goods bearing false marks that he knew were counterfeit.,346
+1506,The accused forged my signature on a property document and sold my land illegally.,347
+1507,A person created a fake agreement with my forged signature to claim money from me.,347
+1508,The accused made a false document in my name to obtain a bank loan fraudulently.,347
+1509,My property papers were forged by the accused who then used them to transfer ownership.,347
+1510,The accused created a fake birth certificate with altered details to get school admission.,347
+1511,The accused forged a court order to get property from the court registry.,348
+1512,The accused created a fake court judgment to get property transferred in his name.,348
+1513,The accused produced a forged court record to claim rights over disputed property.,348
+1514,The accused forged a public register entry to claim illegal rights to property.,348
+1515,The accused created a fake court process to cause loss to an innocent person.,348
+1516,The accused forged a will to claim my father's entire property after his death.,349
+1517,The accused created a fake will for my deceased mother claiming all her property.,349
+1518,The accused forged a property deed to transfer my property to himself.,349
+1519,The accused forged a valuable security document to claim money from my bank.,349
+1520,The accused forged a power of attorney in my name to transfer my property.,349
+1521,The accused used a forged property deed he knew was fake to transfer my land.,350
+1522,The accused used a document he knew was forged to obtain money from a court.,350
+1523,The accused presented forged papers he knew were fake in the property registration office.,350
+1524,The accused used forged accounts knowing they were fake in the court proceedings.,350
+1525,The accused used a forged will knowing it to be fake to claim inheritance.,350
+1526,The accused threatened to kill me if I testify against him in the court case.,351
+1527,My neighbour sent threatening messages saying he would harm my family if I filed a complaint.,351
+1528,The accused called me and threatened to break my legs if I did not withdraw the case.,351
+1529,A person sent me a letter threatening to burn my house if I did not pay him money.,351
+1530,The accused verbally threatened to kidnap my child in front of witnesses to cause fear.,351
+1531,My neighbour abused and insulted me in front of many people knowing it would cause a fight.,352
+1532,The accused made highly insulting comments about me publicly intending to provoke me to fight.,352
+1533,The accused hurled caste-based insults at me in a public place in front of a large crowd.,352
+1534,After the argument the accused repeatedly insulted me in front of others to provoke me.,352
+1535,The accused insulted my family members publicly using abusive language in the colony.,352
+1536,The accused spread rumours on social media that there was a riot in our city causing panic.,353
+1537,False messages circulated by the accused about a disease outbreak caused fear among the public.,353
+1538,The accused spread false information that police were arresting people of a particular religion.,353
+1539,The accused spread fake news about a bomb threat in the area causing mass panic.,353
+1540,A message falsely attributed to the Health Department was shared by the accused causing fear.,353
+1541,The accused spread rumours and statements that were likely to cause public mischief.,354
+1542,The accused made statements with intent to cause fear and alarm among the community.,354
+1543,The accused circulated false information that was likely to cause public disorder.,354
+1544,The accused published statements that could induce members of public to commit offences.,354
+1545,The accused spread rumours intending to cause panic that would lead to public disorder.,354
+1546,The accused threatened to invoke divine wrath on me if I did not give up my legal claim.,355
+1547,The accused tried to induce me through superstitious fear to abandon my lawful rights.,355
+1548,The accused threatened that God would punish my family if I proceeded with the court case.,355
+1549,The accused used religious blackmail to frighten me into not pursuing my legal rights.,355
+1550,The accused induced me through supernatural threats to omit doing what I was legally entitled to.,355
+1551,The accused published false and defamatory statements about me on social media platforms.,356
+1552,My business rival spread false rumours in the neighbourhood damaging my reputation.,356
+1553,The accused made false allegations against me in a public meeting attended by many people.,356
+1554,The newspaper printed false and defamatory content about me causing serious reputational damage.,356
+1555,The accused made false statements about my character in front of my employer and colleagues.,356
+1556,The accused abandoned his sick elderly mother without making arrangements for her care.,357
+1557,The accused left his bedridden father alone without providing food or necessary care.,357
+1558,The accused who was obligated to look after an infirm person abandoned them without care.,357
+1559,The accused failed to provide necessities of life to a helpless elderly person in his care.,357
+1560,The accused left an infirm person dependent on him without making any arrangements for care.,357
