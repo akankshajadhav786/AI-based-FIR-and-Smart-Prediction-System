@@ -387,15 +387,7 @@ if page == "Register FIR":
             st.session_state.fir_store.append(fir_rec)
 
             st.success(f"✅ FIR registered successfully! ID: **{fir_id}**")
-            st.balloons()
 
-            st.subheader("🔍 Predicted BNS Sections")
-            for p in fir_rec["predicted_sections"]:
-                with st.expander(
-                    f"BNS Section {p['section']} — {p['section_name']}  |  {p['confidence']}% confidence"
-                ):
-                    st.write(f"**Chapter:** {p['chapter_name']}")
-                    st.write(f"**Description:** {p['description']}")
 
 
 # ──────────────────────────────────────────
