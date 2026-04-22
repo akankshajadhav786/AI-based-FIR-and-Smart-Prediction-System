@@ -1,0 +1,28 @@
+{
+  "model_version": "2.0",
+  "law": "Bharatiya Nyaya Sanhita (BNS) 2023",
+  "trained_on": "2026-04-15",
+  "num_classes": 312,
+  "total_samples": 1560,
+  "train_samples": 1248,
+  "test_samples": 312,
+  "best_model": "Logistic Regression",
+  "top1_accuracy": 0.4968,
+  "top3_accuracy": 0.7628,
+  "top5_accuracy": 0.8365,
+  "macro_f1": 0.4313,
+  "tfidf_settings": {
+    "ngram_range": [
+      1,
+      2
+    ],
+    "max_features": 50000,
+    "sublinear_tf": true
+  },
+  "files": {
+    "tfidf": "tfidf_vectorizer.pkl",
+    "best_model": "bns_model.pkl",
+    "lr_model": "bns_lr_model.pkl",
+    "label_encoder": "label_encoder.pkl"
+  }
+}
